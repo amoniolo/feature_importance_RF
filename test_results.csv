@@ -1,0 +1,1303 @@
+,date,stock,classification,important_features,imp_feature_sum,weight
+0,2025-02-28,A UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.70483152,0.0011130878367095406
+1,2025-02-28,AAPL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",115.414471965,0.003928057077619698
+2,2025-02-28,ABNB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",49.37233956,0.0016803557174884746
+3,2025-02-28,ACGL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.14471845,0.0008557842668311955
+4,2025-02-28,ACN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",38.122802488999994,0.0012974849824814538
+5,2025-02-28,ADBE UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",59.885699229,0.0020381711296657314
+6,2025-02-28,ADI UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",37.121792770999996,0.0012634162626700561
+7,2025-02-28,ADM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.915534672999996,0.0008139497901599824
+8,2025-02-28,ADP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",107.442406344,0.0036567329684965887
+9,2025-02-28,ADSK UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",64.661281898,0.002200705004173359
+10,2025-02-28,AEE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.525935622000002,0.0009368274567065579
+11,2025-02-28,AEP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.998557826,0.0008848441390200514
+12,2025-02-28,AES UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.331504536,0.0008961757654479945
+13,2025-02-28,AFL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.142704347,0.0008557157181352694
+14,2025-02-28,AIG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.259124664999998,0.0006895062349794899
+15,2025-02-28,AIZ UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.639392017000002,0.0007705170983440607
+16,2025-02-28,AJG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",88.570664507,0.003014445412804962
+17,2025-02-28,AKAM UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",27.623859795999998,0.0009401602427792386
+18,2025-02-28,ALGN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",36.997463349,0.0012591847910207162
+19,2025-02-28,ALL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.977462767000002,0.0007820231181669163
+20,2025-02-28,ALLE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",29.602176622,0.0010074909793657215
+21,2025-02-28,AMAT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",29.579083578,0.0010067050225148727
+22,2025-02-28,AMCR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",24.354225939,0.0008288803643155686
+23,2025-02-28,AMD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",37.271636851,0.0012685161092400939
+24,2025-02-28,AME UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",34.524344462,0.0011750137855785106
+25,2025-02-28,AMGN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",47.351118243,0.00161156475423661
+26,2025-02-28,AMP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",208.224862716,0.007086798837289761
+27,2025-02-28,AMT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",63.54174074,0.0021626021432886162
+28,2025-02-28,AMZN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",47.468337979000005,0.0016155542523107439
+29,2025-02-28,ANET UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",54.43740785799999,0.001852742048577175
+30,2025-02-28,ANSS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",48.80751379000001,0.0016611322368824783
+31,2025-02-28,AON UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",115.80917639,0.003941490588026082
+32,2025-02-28,AOS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",54.41429802,0.0018519555201533735
+33,2025-02-28,APA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.851994056999995,0.0009819589998506328
+34,2025-02-28,APD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.418778429,0.001103352204344318
+35,2025-02-28,APH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",52.621620127,0.0017909428848607522
+36,2025-02-28,APO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.743686656999998,0.0009782728273812252
+37,2025-02-28,APTV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.715141309,0.0008071295313279106
+38,2025-02-28,ARE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",53.422659122,0.001818205730153787
+39,2025-02-28,ATO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.565737224,0.0009381820785470849
+40,2025-02-28,AVB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",44.178777777,0.0015035961935532533
+41,2025-02-28,AVGO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",49.85085884200001,0.0016966418124680334
+42,2025-02-28,AVY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",139.1109877,0.0047345526995554
+43,2025-02-28,AWK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",30.500342385,0.0010380594715327849
+44,2025-02-28,AXP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",135.48112889499998,0.004611012797435808
+45,2025-02-28,BAC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",45.340094315,0.001543120852539096
+46,2025-02-28,BALL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.33791115,0.0007942907462888826
+47,2025-02-28,BAX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.434525691,0.0007635446051366727
+48,2025-02-28,BBY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.621216058,0.0009400702648623842
+49,2025-02-28,BDX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",24.53680686,0.0008350943881443122
+50,2025-02-28,BEN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",36.509057534,0.0012425622142701752
+51,2025-02-28,BF/B UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",29.446792921,0.0010022025953696063
+52,2025-02-28,BG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.148652287,0.0007878494430133726
+53,2025-02-28,BIIB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",35.209946104,0.0011983477950526643
+54,2025-02-28,BK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",75.09339246600001,0.0025557551556272466
+55,2025-02-28,BKR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",52.936375962,0.0018016553965964448
+56,2025-02-28,BMY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.097868126999998,0.0009222584557415523
+57,2025-02-28,BR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",101.01465681,0.003437968660864075
+58,2025-02-28,BRO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",53.770833296999996,0.0018300556135268868
+59,2025-02-28,BSX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",49.182472553000004,0.0016738937164243535
+60,2025-02-28,BWA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.238628015,0.0007568773541446618
+61,2025-02-28,BX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",71.919545205,0.002447735312148383
+62,2025-02-28,BXP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",50.398213006,0.0017152706582380577
+63,2025-02-28,C UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",108.575899156,0.0036953106649223705
+64,2025-02-28,CAG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.710275313999997,0.0007729295656172315
+65,2025-02-28,CARR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",29.411239132,0.0010009925451034663
+66,2025-02-28,CAT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",164.938800242,0.005613585633014595
+67,2025-02-28,CB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",161.330086553,0.005490765391273349
+68,2025-02-28,CBOE UF Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.560499035999996,0.0011081755737527897
+69,2025-02-28,CBRE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",38.802530185,0.0013206190759938918
+70,2025-02-28,CCI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",59.43497696000001,0.0020228310880865165
+71,2025-02-28,CCL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",25.281537258,0.0008604408066737803
+72,2025-02-28,CDW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.344876358,0.001134871349756867
+73,2025-02-28,CE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.263617611,0.0008938652777623173
+74,2025-02-28,CEG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",36.403855963,0.0012389817466866248
+75,2025-02-28,CF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.210849738,0.0008580350025444715
+76,2025-02-28,CFG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",47.344859983,0.0016113517583958975
+77,2025-02-28,CHD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",64.512056781,0.002195626223609616
+78,2025-02-28,CHRW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",180.28098307699997,0.0061357469256593565
+79,2025-02-28,CHTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",407.259190589,0.013860803751750639
+80,2025-02-28,CI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",901.312713602,0.030675596600109194
+81,2025-02-28,CINF UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",34.748830217000005,0.0011826540133917087
+82,2025-02-28,CL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",402.11510559300007,0.01368572813833413
+83,2025-02-28,CLX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.654821693,0.0009071796562534289
+84,2025-02-28,CMCSA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",52.634855117,0.0017913933292050064
+85,2025-02-28,CME UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",31.553949957999997,0.0010739183253982811
+86,2025-02-28,CMG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",65.823462846,0.002240259082795757
+87,2025-02-28,CMI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.299237838999996,0.0009291119439477774
+88,2025-02-28,CMS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.83392673,0.0009473097353240107
+89,2025-02-28,CNC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.344441349999997,0.0006924099332995318
+90,2025-02-28,CNP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.664235587,0.0009075000520610351
+91,2025-02-28,COF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",161.261083411,0.0054884169138623585
+92,2025-02-28,COIN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",45.469502932,0.0015475251913127114
+93,2025-02-28,COO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.355448626,0.0009650593965219381
+94,2025-02-28,COP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.172282542,0.0007546193287831221
+95,2025-02-28,COR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",238.431388822,0.008114858461363245
+96,2025-02-28,COST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",77.842272104,0.00264931150028431
+97,2025-02-28,CPAY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",51.80174400999999,0.0017630389302758377
+98,2025-02-28,CPB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.547610265999996,0.0008014277203853735
+99,2025-02-28,CPT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",87.10150118600001,0.0029644433872099106
+100,2025-02-28,CRL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",34.360775696,0.0011694468281768541
+101,2025-02-28,CRM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",35.060304607000006,0.0011932548432643075
+102,2025-02-28,CRWD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",144.797666856,0.004928095155077375
+103,2025-02-28,CSCO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.534927496,0.0009371334893357889
+104,2025-02-28,CSGP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",87.45554297199999,0.002976492970937089
+105,2025-02-28,CSX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",35.447050993,0.001206417506948562
+106,2025-02-28,CTAS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",67.639560698,0.0023020688012802973
+107,2025-02-28,CTRA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",17.431735158,0.0005932778575925794
+108,2025-02-28,CTSH UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.450253449999998,0.0008661829533977682
+109,2025-02-28,CTVA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.986296218,0.000918461177814882
+110,2025-02-28,CVS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",19.730885638,0.0006715279605624694
+111,2025-02-28,D UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.06132383,0.0007848772753314853
+112,2025-02-28,DAL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",116.513906789,0.003965475632401151
+113,2025-02-28,DASH UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",73.553707288,0.00250335296413619
+114,2025-02-28,DAY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",48.64446083,0.0016555828346051878
+115,2025-02-28,DD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.898159505,0.000847392792239938
+116,2025-02-28,DE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",35.080884745,0.001193955274980997
+117,2025-02-28,DECK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe']",72.48127602099999,0.0024668534579921292
+118,2025-02-28,DFS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",120.096669439,0.004087412647275955
+119,2025-02-28,DG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.291199078000002,0.0007927009310611569
+120,2025-02-28,DGX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",114.30997981499999,0.0038904664000112728
+121,2025-02-28,DHI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",135.058769641,0.004596638072769771
+122,2025-02-28,DHR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",65.6216402,0.0022333901792731155
+123,2025-02-28,DIS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.787194223,0.0009457192246042464
+124,2025-02-28,DLR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",126.58721510200002,0.004308314180637323
+125,2025-02-28,DLTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.050945929,0.0009546958437218364
+126,2025-02-28,DOC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",99.32266544500001,0.0033803828265800075
+127,2025-02-28,DOV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",84.922759462,0.002890291318552014
+128,2025-02-28,DOW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",87.89143856,0.0029913283959959657
+129,2025-02-28,DRI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",36.231350053,0.0012331106193559707
+130,2025-02-28,DTE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.230663818999997,0.0008927437167163222
+131,2025-02-28,DUK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.63855794,0.0008725917752040698
+132,2025-02-28,DVN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.591288769000002,0.0007688799353388859
+133,2025-02-28,DXCM UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",64.83408894499999,0.0022065863805074875
+134,2025-02-28,EA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.041966039000002,0.0009543902189603122
+135,2025-02-28,EBAY UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",24.897328399,0.0008473645060835318
+136,2025-02-28,ECL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",47.236402741999996,0.0016076604861847456
+137,2025-02-28,ED UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.214381583,0.0008581552066099852
+138,2025-02-28,EFX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",41.172928224,0.0014012940436590683
+139,2025-02-28,EG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",18.528888024,0.0006306187474060248
+140,2025-02-28,EIX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.372087304000004,0.0006933508455042873
+141,2025-02-28,EL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",49.551551539,0.0016864550815501901
+142,2025-02-28,ELV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",785.5427339140001,0.02673544004654248
+143,2025-02-28,EMR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.170867754,0.0009247429509406284
+144,2025-02-28,ENPH UQ Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",36.60407847100001,0.0012457961905449886
+145,2025-02-28,EOG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.067346449,0.0007850822512828194
+146,2025-02-28,EPAM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",37.945757236000006,0.001291459361540984
+147,2025-02-28,EQIX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",76.90281847700001,0.002617337802308619
+148,2025-02-28,EQR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",56.816754606,0.001933721579778662
+149,2025-02-28,EQT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.441711649000002,0.000729754819869354
+150,2025-02-28,ES UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.937542026,0.0007466300867965753
+151,2025-02-28,ESS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",59.776191794,0.0020344441147794683
+152,2025-02-28,ETN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",96.568874973,0.0032866593448566614
+153,2025-02-28,ETR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.691402436,0.0009764933676579321
+154,2025-02-28,EVRG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",24.394895486,0.0008302645261040953
+155,2025-02-28,EW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",39.400505485000004,0.0013409707794624056
+156,2025-02-28,EXC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.97499798,0.0008159735854426994
+157,2025-02-28,EXE UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",42.723109967,0.0014540534789665796
+158,2025-02-28,EXPD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.461998568000006,0.0011388575285965232
+159,2025-02-28,EXPE UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",50.440542670999996,0.0017167113210714582
+160,2025-02-28,EXR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",37.85275353899999,0.0012882940407278672
+161,2025-02-28,F UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.050145326000006,0.0009206342410045242
+162,2025-02-28,FANG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.079180946999998,0.0007174163213639204
+163,2025-02-28,FAST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",56.34918552,0.0019178081676539203
+164,2025-02-28,FCX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",48.444204373000005,0.0016487672353145163
+165,2025-02-28,FDS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",38.469287597,0.0013092773795491453
+166,2025-02-28,FDX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.013551814,0.0007492170308828622
+167,2025-02-28,FE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.926009794,0.0007802719494329075
+168,2025-02-28,FI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",42.309059551,0.0014399615402402696
+169,2025-02-28,FIS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.061360628,0.0006827754635951866
+170,2025-02-28,FITB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",40.861635561,0.0013906993987476482
+171,2025-02-28,FMC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.934167462,0.0007124808809775773
+172,2025-02-28,FOXA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.107751569,0.0008885604776015164
+173,2025-02-28,FRT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",39.987033773,0.001360932891264132
+174,2025-02-28,FSLR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",38.657275711,0.0013156754337024408
+175,2025-02-28,FTNT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",104.322046485,0.003550533534229954
+176,2025-02-28,FTV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.091474358000003,0.0008880064932286395
+177,2025-02-28,GD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",199.77388412599998,0.006799175234304089
+178,2025-02-28,GDDY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",74.395754228,0.0025320114883753174
+179,2025-02-28,GE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",87.405723294,0.0029747973903444577
+180,2025-02-28,GEHC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",28.936767109999998,0.0009848441960063547
+181,2025-02-28,GEN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",30.26603258,0.00103008488851719
+182,2025-02-28,GILD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.595966585000003,0.0009392109153420408
+183,2025-02-28,GIS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.551173564000003,0.0008696177043551016
+184,2025-02-28,GL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.237479121,0.0007228038975679128
+185,2025-02-28,GLW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",42.685563837000004,0.0014527756206601408
+186,2025-02-28,GM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",197.138497595,0.006709481554307898
+187,2025-02-28,GNRC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",33.623843616,0.001144365820368346
+188,2025-02-28,GOOGL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",29.843237527999996,0.0010156953317474388
+189,2025-02-28,GPC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.160197458,0.000890345439590867
+190,2025-02-28,GPN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",17.424472980999997,0.0005930306940845886
+191,2025-02-28,GRMN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",37.823413063000004,0.001287295456560299
+192,2025-02-28,GS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",408.408905466,0.013899933555690773
+193,2025-02-28,GWW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",394.911928948,0.013440572669353449
+194,2025-02-28,HAL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",49.122867803,0.001671865107220403
+195,2025-02-28,HAS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",29.294911923,0.0009970334236098397
+196,2025-02-28,HBAN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",28.932991969999996,0.0009847157115525115
+197,2025-02-28,HD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",89.371371024,0.0030416969424238113
+198,2025-02-28,HES UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",71.409138555,0.0024303639511755173
+199,2025-02-28,HIG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",111.89106304399999,0.0038081401286110886
+200,2025-02-28,HII UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.816587262,0.0007425134694546349
+201,2025-02-28,HOLX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.002723152,0.0009530546126242772
+202,2025-02-28,HON UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.567128991000004,0.0011084012199929767
+203,2025-02-28,HPE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.232508576,0.0007226347282762767
+204,2025-02-28,HRL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.578890818999994,0.000836526688532554
+205,2025-02-28,HST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.927937151000002,0.0009164749646280112
+206,2025-02-28,HSY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",41.396391398000006,0.001408899468587792
+207,2025-02-28,HUBB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",31.543571382,0.001073565097261304
+208,2025-02-28,HUM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.101505955,0.0008543135574484257
+209,2025-02-28,HWM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",56.517437258,0.0019235345069857255
+210,2025-02-28,IBM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",104.68635635999999,0.0035629325857403607
+211,2025-02-28,ICE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.832032291,0.0011174170328692454
+212,2025-02-28,IDXX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",73.6293469,0.0025059273095211876
+213,2025-02-28,IEX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",31.457992109,0.001070652461928127
+214,2025-02-28,IFF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",24.596062309,0.0008371111091141276
+215,2025-02-28,INCY UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",490.303083235,0.016687149050632503
+216,2025-02-28,INTC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",67.834450026,0.0023087017337988045
+217,2025-02-28,INTU UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",43.38807245999999,0.0014766850483227375
+218,2025-02-28,INVH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",50.424741071,0.0017161735238120596
+219,2025-02-28,IP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",79.34132053100001,0.0027003306461775367
+220,2025-02-28,IPG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.701381458000004,0.0007726268689673807
+221,2025-02-28,IQV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",38.564800224,0.0013125280901758265
+222,2025-02-28,IR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",31.373247708,0.0010677682409247365
+223,2025-02-28,ISRG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe']",114.998639129,0.003913904475378864
+224,2025-02-28,IT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",86.38766227800002,0.002940148340608649
+225,2025-02-28,ITW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",53.418467783000004,0.001818063080635548
+226,2025-02-28,IVZ UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",30.768823116999997,0.0010471970399986955
+227,2025-02-28,J UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",29.055059203000003,0.000988870191059003
+228,2025-02-28,JBHT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",151.597492993,0.00515952284979599
+229,2025-02-28,JBL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.060166437999996,0.0011251814313498955
+230,2025-02-28,JCI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",30.846715522,0.001049848057739745
+231,2025-02-28,JKHY UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",38.624410248,0.0013145568788769633
+232,2025-02-28,JNPR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",22.625684075000002,0.0007700505573836773
+233,2025-02-28,JPM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",121.31573670700001,0.004128902815091428
+234,2025-02-28,K UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.514173031,0.001140633252777112
+235,2025-02-28,KDP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.837478675,0.0008112932046367429
+236,2025-02-28,KEY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",24.582293315999998,0.0008366424903223546
+237,2025-02-28,KEYS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe']",30.140647389,0.0010258174844512112
+238,2025-02-28,KHC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.128719754,0.0007531366974041375
+239,2025-02-28,KIM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",37.453694995000006,0.001274712340690985
+240,2025-02-28,KKR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",32.665967658,0.0011117651302448
+241,2025-02-28,KLAC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",133.340754221,0.004538166526566819
+242,2025-02-28,KMB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",136.46249708099998,0.0046444130303800535
+243,2025-02-28,KMI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",34.593946629,0.0011773826504188308
+244,2025-02-28,KO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",40.526100715,0.001379279686781041
+245,2025-02-28,KR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",24.635182174,0.0008384425284757774
+246,2025-02-28,KVUE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",30.062615865,0.0010231617318847686
+247,2025-02-28,LDOS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.450126041,0.0007981099076930135
+248,2025-02-28,LEN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",22.500658746,0.0007657954009886533
+249,2025-02-28,LH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.173355532,0.000788690202016211
+250,2025-02-28,LHX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",137.57235465,0.004682186316561897
+251,2025-02-28,LII UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",205.072522287,0.006979510964959892
+252,2025-02-28,LIN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",37.456353426,0.0012748028186746131
+253,2025-02-28,LKQ UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.382987572,0.00072775618380267
+254,2025-02-28,LLY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",104.023276311,0.0035403650841510223
+255,2025-02-28,LMT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",337.385641312,0.011482702590752718
+256,2025-02-28,LNT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.113073546,0.000922775962365325
+257,2025-02-28,LRCX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",47.902819996999995,0.0016303415674268316
+258,2025-02-28,LULU UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",54.563645914,0.0018570384793530844
+259,2025-02-28,LUV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",69.841879064,0.002377023285734912
+260,2025-02-28,LW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.689959592999998,0.0008743411972949946
+261,2025-02-28,LYB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",146.559119919,0.004988045073429991
+262,2025-02-28,LYV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",245.843671533,0.008367130720366354
+263,2025-02-28,MA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",150.527434685,0.00512310410578025
+264,2025-02-28,MAA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",46.98849308,0.0015992230408119962
+265,2025-02-28,MCHP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",76.00065610799999,0.002586633288235311
+266,2025-02-28,MCO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",63.95031454,0.002176507688923367
+267,2025-02-28,MDLZ UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",30.548512583,0.0010396989131380076
+268,2025-02-28,MDT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.480189818,0.0007991331089433787
+269,2025-02-28,MET UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.912700208,0.0007457846115511016
+270,2025-02-28,META UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",103.768068874,0.003531679263715323
+271,2025-02-28,MGM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.200864488999997,0.0008917295157489572
+272,2025-02-28,MKC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",59.742855797,0.0020333095456329313
+273,2025-02-28,MKTX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",34.72352982899999,0.0011817929310121947
+274,2025-02-28,MLM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.66491231,0.0011117292121566246
+275,2025-02-28,MMC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",86.889966303,0.0029572439339681745
+276,2025-02-28,MMM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",90.303397004,0.0030734178452268383
+277,2025-02-28,MNST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",43.671187548,0.001486320687651717
+278,2025-02-28,MOS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",18.300603132,0.0006228492184165738
+279,2025-02-28,MPC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.16809612,0.0009246486201659438
+280,2025-02-28,MPWR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",48.976162579,0.0016668720895888554
+281,2025-02-28,MRK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.307614958,0.0007932596349439671
+282,2025-02-28,MSFT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",76.698358845,0.0026103791506690848
+283,2025-02-28,MSI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",75.901841822,0.00258327020777509
+284,2025-02-28,MTB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",101.427243541,0.003452010784015909
+285,2025-02-28,MU UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.4540477,0.0007301746694048188
+286,2025-02-28,NCLH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.863543904,0.0009823520914402867
+287,2025-02-28,NDAQ UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",40.804338898,0.0013887493437953593
+288,2025-02-28,NDSN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",29.469487779,0.0010029750002168902
+289,2025-02-28,NEE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",38.665385893999996,0.0013159514585474325
+290,2025-02-28,NEM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.002193204,0.0007488304479211003
+291,2025-02-28,NFLX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe']",169.273075476,0.0057610998937429065
+292,2025-02-28,NI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.315135366,0.0009636873607315482
+293,2025-02-28,NKE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",54.351750715,0.0018498267629887973
+294,2025-02-28,NOC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",305.62959284899995,0.010401905973148736
+295,2025-02-28,NOW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe']",138.27295531800002,0.004706030808207252
+296,2025-02-28,NRG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",31.979346805000002,0.001088396432581947
+297,2025-02-28,NSC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",81.040630625,0.0027581655686804226
+298,2025-02-28,NTAP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",39.958986421000006,0.0013599783177374646
+299,2025-02-28,NTRS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",103.198633386,0.0035122988943317975
+300,2025-02-28,NUE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",156.743864178,0.005334676272179863
+301,2025-02-28,NVDA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",69.415170054,0.002362500519930266
+302,2025-02-28,NWS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",38.342430543,0.0013049598815757387
+303,2025-02-28,NWSA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",34.659203064,0.001179603611074785
+304,2025-02-28,NXPI UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",29.667106725,0.001009700833522634
+305,2025-02-28,O UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",40.424826018,0.0013758328678201114
+306,2025-02-28,ODFL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",43.499635008999995,0.0014804820076878477
+307,2025-02-28,OKE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.266200458000004,0.0008939531832932791
+308,2025-02-28,OMC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.301847705,0.0007930633502096581
+309,2025-02-28,ON UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",32.258367408,0.001097892718756078
+310,2025-02-28,ORCL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",63.19878979499999,0.0021509300291780724
+311,2025-02-28,OXY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.215190703,0.0007901140350654132
+312,2025-02-28,PANW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",82.76325990700002,0.0028167941446992696
+313,2025-02-28,PARA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.054649502999997,0.0007506157642080834
+314,2025-02-28,PAYC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",37.246192106,0.0012676501137632375
+315,2025-02-28,PAYX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",46.782230418999994,0.001592203024243923
+316,2025-02-28,PCAR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",88.97404433199999,0.0030281741848522032
+317,2025-02-28,PCG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.207661745000003,0.0006877547277057551
+318,2025-02-28,PEG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.496620903,0.0009358297491618635
+319,2025-02-28,PEP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",35.628765511000005,0.0012126020433102813
+320,2025-02-28,PFE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",19.981536461,0.0006800586995810124
+321,2025-02-28,PFG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.848685088,0.0008116746076718209
+322,2025-02-28,PG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",72.225840358,0.002458159870031792
+323,2025-02-28,PGR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",158.870447345,0.005407053158007617
+324,2025-02-28,PH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",188.73081415299998,0.006423331473746516
+325,2025-02-28,PHM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",110.781527975,0.0037703778185086403
+326,2025-02-28,PLD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",47.59278956,0.001619789881562821
+327,2025-02-28,PLTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",196.73878820800002,0.006695877703249494
+328,2025-02-28,PNC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",107.74985121099999,0.0036671966561540896
+329,2025-02-28,PNR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.884070547,0.0009830507024891713
+330,2025-02-28,PNW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.736406223,0.0009439906877971928
+331,2025-02-28,PODD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",86.240028591,0.0029351237233380227
+332,2025-02-28,POOL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",44.366864617,0.001509997607782252
+333,2025-02-28,PPL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.171481358,0.0008907294798459886
+334,2025-02-28,PRU UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.015022882,0.000885404516576289
+335,2025-02-28,PSA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",42.675305481,0.0014524264841332868
+336,2025-02-28,PTC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",43.23442377199999,0.0014714557143744923
+337,2025-02-28,PWR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",33.903359378000005,0.0011538789589595215
+338,2025-02-28,PYPL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",29.383250256999997,0.0010000399618037593
+339,2025-02-28,QCOM UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.366317029,0.0008973605861831248
+340,2025-02-28,RCL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",93.16640256299999,0.0031708583919609155
+341,2025-02-28,REG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",39.46978417,0.001343328634801595
+342,2025-02-28,REGN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",67.393597516,0.0022936976030983056
+343,2025-02-28,RF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",30.332578453,0.0010323497343634137
+344,2025-02-28,RJF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",98.54409901599999,0.003353884820569478
+345,2025-02-28,RL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",31.573063395000005,0.0010745688388928824
+346,2025-02-28,RMD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",67.137909643,0.0022849954313333668
+347,2025-02-28,ROK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",42.562416903000006,0.001448584394226834
+348,2025-02-28,ROL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",69.26941613199999,0.0023575398792484233
+349,2025-02-28,ROP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",100.545492093,0.003422000942467891
+350,2025-02-28,ROST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",34.964947296,0.0011900094187174625
+351,2025-02-28,RSG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",43.984138375,0.001496971767104882
+352,2025-02-28,RVTY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",49.184769163,0.0016739718800637257
+353,2025-02-28,SCHW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",40.743541121,0.0013866801306873116
+354,2025-02-28,SHW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",147.375178769,0.0050158191097958
+355,2025-02-28,SJM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.981553652,0.0007140936393764319
+356,2025-02-28,SLB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",49.299215683,0.0016778669935208256
+357,2025-02-28,SMCI UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe']",23.433956925,0.0007975596022637089
+358,2025-02-28,SNA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.369042288000003,0.0008974533386146098
+359,2025-02-28,SO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.55020394,0.0009716877679604327
+360,2025-02-28,SPG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",52.761088799,0.0017956896111146483
+361,2025-02-28,SPGI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",38.938764866999996,0.0013252557354849965
+362,2025-02-28,SRE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.811675434999998,0.0008104150080138942
+363,2025-02-28,STE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",29.895333738999998,0.0010174683926717032
+364,2025-02-28,STLD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",137.915665112,0.004693870666601543
+365,2025-02-28,STT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",94.029970755,0.003200249378124432
+366,2025-02-28,STZ UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",80.734950532,0.0027477619439672217
+367,2025-02-28,SWK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.816366759,0.0008105746741989738
+368,2025-02-28,SWKS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.972063989000002,0.0008499080836631149
+369,2025-02-28,SYF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",84.544931306,0.0028774321810709717
+370,2025-02-28,SYK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",97.932997838,0.0033330863863132217
+371,2025-02-28,SYY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",203.00970811,0.00690930441555735
+372,2025-02-28,T UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",39.874129909000004,0.001357090281108533
+373,2025-02-28,TAP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.102941828,0.0006841906529052885
+374,2025-02-28,TECH UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",38.526518897,0.0013112252099139073
+375,2025-02-28,TEL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",79.571989621,0.00270818131980742
+376,2025-02-28,TER UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",53.896862435,0.001834344933913479
+377,2025-02-28,TFC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",31.234715825000002,0.0010630533976799556
+378,2025-02-28,TFX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",40.434657617999996,0.0013761674799818862
+379,2025-02-28,TGT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.594819096000002,0.0008711031518727324
+380,2025-02-28,TJX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",47.799310932,0.0016268187031928357
+381,2025-02-28,TKO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",57.194424523,0.0019465753316974487
+382,2025-02-28,TMO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",142.278936967,0.0048423718086143845
+383,2025-02-28,TMUS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",103.39306501500002,0.0035189162493601883
+384,2025-02-28,TPR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",35.934915968,0.001223021676558701
+385,2025-02-28,TRGP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",45.564252934,0.0015507499464896312
+386,2025-02-28,TROW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.539680178999998,0.0007671234702807
+387,2025-02-28,TRV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",228.075847754,0.007762414303432388
+388,2025-02-28,TSCO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",69.76533663,0.002374418213385726
+389,2025-02-28,TSLA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe']",146.550522597,0.0049877524691234795
+390,2025-02-28,TSN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.551592947,0.0008015632683632276
+391,2025-02-28,TT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",129.141994227,0.004395264439585391
+392,2025-02-28,TTWO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",54.721592064999996,0.0018624140746814283
+393,2025-02-28,TXN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",65.709836061,0.002236391868490416
+394,2025-02-28,TXT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",94.117704781,0.0032032353490855253
+395,2025-02-28,UAL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe']",205.308259735,0.00698753413688375
+396,2025-02-28,UBER UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",43.530214805,0.0014815227713118968
+397,2025-02-28,UDR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",83.845972634,0.0028536435736999147
+398,2025-02-28,UHS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.902770225,0.0007114122962765794
+399,2025-02-28,ULTA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",53.42537187999999,0.0018182980571218035
+400,2025-02-28,UNH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",462.361364899,0.015736170697555042
+401,2025-02-28,UNP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",73.81228588,0.0025121535196569447
+402,2025-02-28,UPS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",134.317437246,0.004571407303079714
+403,2025-02-28,URI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",255.183751935,0.008685014329795673
+404,2025-02-28,USB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",47.940211944000005,0.0016316141782143586
+405,2025-02-28,V UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",73.188423296,0.002490920759182275
+406,2025-02-28,VICI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.264209012000002,0.0007237136321595887
+407,2025-02-28,VLTO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",42.834813661000005,0.0014578552421106855
+408,2025-02-28,VMC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",36.41876105,0.0012394890317045787
+409,2025-02-28,VRSK UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",460.87158896400007,0.0156854671349436
+410,2025-02-28,VRTX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",55.842847689,0.001900575286310155
+411,2025-02-28,VST UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",38.670679637999996,0.001316131627708477
+412,2025-02-28,VTR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",158.085890429,0.005380351269637639
+413,2025-02-28,VTRS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",17.199415735,0.0005853710159439826
+414,2025-02-28,VZ UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",54.140273925,0.00184262928690483
+415,2025-02-28,WAB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",28.984722776,0.0009864763361533927
+416,2025-02-28,WAT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",57.81316487000001,0.001967633760141148
+417,2025-02-28,WBA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",271.08450407,0.009226186168127214
+418,2025-02-28,WDAY UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",53.973608924,0.0018369569511429153
+419,2025-02-28,WDC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",59.50256933800001,0.002025131551055117
+420,2025-02-28,WEC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.792041187,0.000945884187896293
+421,2025-02-28,WELL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",85.269206504,0.0029020824200679586
+422,2025-02-28,WFC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",58.35147915700001,0.001985954939530812
+423,2025-02-28,WMB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",36.696500795,0.0012489417247032034
+424,2025-02-28,WMT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",48.561850172,0.0016527712341679209
+425,2025-02-28,WSM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",39.832614257,0.0013556773226823136
+426,2025-02-28,WST UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",47.407324356,0.0016134776930233688
+427,2025-02-28,WTW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",28.916910925000003,0.000984168403562861
+428,2025-02-28,WY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",53.046133608000005,0.0018053909272526345
+429,2025-02-28,XEL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.059311303,0.0008869118444061856
+430,2025-02-28,XOM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe']",102.47050262799999,0.0034875174338381614
+431,2025-02-28,XYL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",34.52992337,0.0011752036601122816
+432,2025-02-28,ZBH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.100028954,0.0006840915151183445
+433,2025-02-28,ZBRA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",44.82044005,0.0015254347549570914
+434,2025-02-28,ZTS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",47.06548390700001,0.0016018433739275945
+435,2025-03-31,A UN Equity,Both,"['fwd_dps', 'fwd_eps_LTg']",1.2536116910000001,6.123393093073154e-05
+436,2025-03-31,AAPL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",82.834924964,0.004046155687852391
+437,2025-03-31,ABNB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",61.637118558999994,0.0030107273948605157
+438,2025-03-31,ACGL UW Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",61.474495084999994,0.0030027838867980727
+439,2025-03-31,ACN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",23.906208245000002,0.0011677229201031874
+440,2025-03-31,ADBE UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",38.540498485,0.0018825496277750117
+441,2025-03-31,ADI UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",49.102066688,0.00239844010846032
+442,2025-03-31,ADM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",24.081594769,0.0011762898522512356
+443,2025-03-31,ADP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",57.214860765,0.002794717740308176
+444,2025-03-31,ADSK UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",69.328468598,0.0033864191664301586
+445,2025-03-31,AEE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",51.310153349000004,0.0025062963346421992
+446,2025-03-31,AEP UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",58.050757011,0.0028355479378568216
+447,2025-03-31,AES UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",25.313334727,0.0012364554362628434
+448,2025-03-31,AFL UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",32.22901739299999,0.0015742589505000927
+450,2025-03-31,AIZ UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",31.298848962000005,0.0015288239327296655
+451,2025-03-31,AJG UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",65.793333175,0.0032137419013114144
+452,2025-03-31,AKAM UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",53.280501084,0.0026025399625380667
+453,2025-03-31,ALGN UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",68.766944406,0.0033589909493548734
+455,2025-03-31,ALLE UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",30.151085664,0.001472760273608477
+456,2025-03-31,AMAT UW Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",11.238942904999998,0.0005489775330909905
+457,2025-03-31,AMCR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",33.300903773,0.0016266163248208085
+458,2025-03-31,AMD UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",50.960451385,0.0024892147885273606
+459,2025-03-31,AME UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",65.84765134,0.003216395127017407
+460,2025-03-31,AMGN UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",127.847263177,0.006244828872662032
+461,2025-03-31,AMP UN Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",190.88162011,0.009323805789046262
+463,2025-03-31,AMZN UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",72.088348749,0.0035212283037066483
+464,2025-03-31,ANET UN Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",11.320632138,0.0005529677262961259
+465,2025-03-31,ANSS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",76.386947114,0.0037311976883822135
+466,2025-03-31,AON UN Equity,Both,"['hist_earn_yld', 'fwd_eps']",20.523163163,0.0010024746615124504
+467,2025-03-31,AOS UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg']",32.552480933000005,0.0015900588542575081
+468,2025-03-31,APA UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe']",35.129085869,0.0017159157282955516
+469,2025-03-31,APD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",37.961048943,0.00185424582884955
+472,2025-03-31,APTV UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",78.53108206399999,0.0038359301285605073
+473,2025-03-31,ARE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",36.002347251,0.0017585710637026488
+475,2025-03-31,AVB UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",60.363532505,0.002948517795967282
+476,2025-03-31,AVGO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",46.929837487,0.002292335376177832
+477,2025-03-31,AVY UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",132.91405913100002,0.006492321645515686
+478,2025-03-31,AWK UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",28.846589168999998,0.0014090408229622468
+479,2025-03-31,AXP UN Equity,Both,"['fwd_dvy', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",14.394862699,0.0007031316272782986
+480,2025-03-31,BAC UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",11.496339838,0.0005615503466107267
+481,2025-03-31,BALL UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",24.105133813000002,0.0011774396406624475
+482,2025-03-31,BAX UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",26.160612615,0.001277841581626199
+483,2025-03-31,BBY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",32.18624281,0.0015721695827318942
+484,2025-03-31,BDX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",39.052918523,0.0019075793027849707
+485,2025-03-31,BEN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'fwd_pe', 'fwd_eps_LTg']",21.997319919,0.0010744813391990382
+486,2025-03-31,BF/B UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",31.572529757,0.0015421921479580425
+487,2025-03-31,BG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_LTg']",388.799139393,0.01899128718919934
+488,2025-03-31,BIIB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",101.641865455,0.004964799717189441
+489,2025-03-31,BK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",28.027186212,0.0013690162567958685
+490,2025-03-31,BKR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.158401843000004,0.0012288875828470962
+491,2025-03-31,BMY UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",23.354485687,0.0011407734737538563
+492,2025-03-31,BR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",44.477742604999996,0.002172560321654997
+493,2025-03-31,BRO UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",6.673873335000001,0.0003259920929022677
+494,2025-03-31,BSX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps']",58.356196134,0.0028504674207362494
+495,2025-03-31,BWA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps']",19.957746883,0.0009748563314624069
+496,2025-03-31,BX UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",43.140043557,0.002107219058726924
+497,2025-03-31,BXP UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe']",31.722507162,0.0015495179459901385
+498,2025-03-31,C UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",19.352307052,0.0009452830105845564
+499,2025-03-31,CAG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",14.165337667000001,0.000691920244952125
+500,2025-03-31,CARR UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",25.972178116000002,0.001268637307942752
+502,2025-03-31,CB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.789925868,0.0011620429897923911
+503,2025-03-31,CBOE UF Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe']",50.39747637,0.0024617157045353005
+504,2025-03-31,CBRE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",153.76340323899998,0.007510728945181116
+505,2025-03-31,CCI UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",122.90009865699999,0.006003179618195526
+506,2025-03-31,CCL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",13.625223552000001,0.0006655378247417322
+507,2025-03-31,CDW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",30.665175208,0.0014978714973275188
+508,2025-03-31,CE UN Equity,Both,"['hist_earn_yld', 'fwd_pe']",24.57987196,0.0012006287055956184
+509,2025-03-31,CEG UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.532129323,0.0012959886909748185
+510,2025-03-31,CF UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",19.401294830999998,0.0009476758681953075
+511,2025-03-31,CFG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",9.471353594,0.0004626378454821955
+512,2025-03-31,CHD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",42.886302571,0.0020948248236359723
+513,2025-03-31,CHRW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",32.83273225000001,0.0016037480132783013
+514,2025-03-31,CHTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",22.33075753,0.0010907684365420718
+516,2025-03-31,CINF UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",30.658500086,0.0014975454442423116
+517,2025-03-31,CL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",362.69795832299997,0.017716348601496828
+518,2025-03-31,CMCSA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.051856825999998,0.0010282992381944313
+520,2025-03-31,CMG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",70.01430405400001,0.003419919492922049
+521,2025-03-31,CMI UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",251.24112615,0.012272126908258314
+522,2025-03-31,CMS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_pe']",30.34519808,0.0014822418908903483
+523,2025-03-31,CNC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.110550122,0.0009823201602142384
+524,2025-03-31,CNP UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.200742267000003,0.001133263720910195
+525,2025-03-31,COF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.313837351,0.0009922499305163614
+526,2025-03-31,COIN UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",41.04074027099999,0.002004676466518774
+527,2025-03-31,COO UW Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.039864864,0.0012230975242213395
+528,2025-03-31,COP UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",62.072583374999994,0.003031998114220541
+529,2025-03-31,COR UN Equity,Both,"['hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.665804968,0.0011071341675130753
+530,2025-03-31,COST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",87.38773715600001,0.004268542404015779
+531,2025-03-31,CPAY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",107.252146747,0.005238839581050525
+532,2025-03-31,CPB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",26.642312875000002,0.0013013707180102305
+534,2025-03-31,CRL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",111.84310407800001,0.005463089535107782
+535,2025-03-31,CRM UN Equity,Both,"['fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",11.882736744999999,0.0005804242943291086
+536,2025-03-31,CRWD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",276.525491844,0.01350716732280543
+537,2025-03-31,CSCO UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",35.957761524,0.001756393228774006
+538,2025-03-31,CSGP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",101.007813505,0.004933828808421172
+539,2025-03-31,CSX UW Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",7.666189567999999,0.00037446278291672895
+540,2025-03-31,CTAS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",68.74664155,0.0033579992358195535
+542,2025-03-31,CTSH UW Equity,Both,"['hist_pb', 'fwd_dps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg']",48.706123256000005,0.002379099851073103
+543,2025-03-31,CTVA UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",27.837847239000002,0.0013597678031651201
+544,2025-03-31,CVS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",309.772364148,0.015131144425876328
+545,2025-03-31,D UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.331675502,0.0009931212530431915
+546,2025-03-31,DAL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",21.886303407,0.001069058625389983
+547,2025-03-31,DASH UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",94.95940374199999,0.004638388116277608
+548,2025-03-31,DAY UN Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.869767332000002,0.0014101729837760243
+549,2025-03-31,DD UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",49.126253217,0.0023996215239312133
+550,2025-03-31,DE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",34.474322832,0.0016839331655358891
+551,2025-03-31,DECK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",35.710651467999995,0.0017443228881653258
+552,2025-03-31,DFS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.639295018,0.001252377296348029
+553,2025-03-31,DG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",14.280948882000002,0.0006975673916762282
+554,2025-03-31,DGX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.355833297,0.001238531321896902
+555,2025-03-31,DHI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",35.741296191,0.001745819760653869
+556,2025-03-31,DHR UN Equity,Both,"['hist_pb', 'fwd_pe']",29.797564666,0.0014554921829153954
+557,2025-03-31,DIS UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",74.47347362500001,0.003637732140553966
+558,2025-03-31,DLR UN Equity,Both,"['fwd_dps', 'fwd_eps_STg']",5.604146517,0.00027374020457159064
+559,2025-03-31,DLTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",40.397046456000005,0.0019732345911029456
+560,2025-03-31,DOC UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps_STg']",93.98635820000001,0.0045908587226551265
+561,2025-03-31,DOV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.954500946,0.001316619860080502
+562,2025-03-31,DOW UN Equity,Both,"['fwd_dvy', 'hist_eps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.317560826999998,0.0010901238302370917
+563,2025-03-31,DRI UN Equity,Both,"['hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",14.943401633999999,0.0007299255663423264
+564,2025-03-31,DTE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",7.605445243999998,0.0003714956649750616
+566,2025-03-31,DVN UN Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.11654136599999,0.0016176109565895528
+567,2025-03-31,DXCM UW Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",16.954453075,0.0008281574079248745
+568,2025-03-31,EA UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",26.769882226,0.0013076019719815309
+569,2025-03-31,EBAY UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",24.924413261,0.0012174581739068059
+570,2025-03-31,ECL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",105.083704773,0.005132919839701195
+571,2025-03-31,ED UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.50428273,0.0012946284959761119
+572,2025-03-31,EFX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",42.513702056,0.002076624774638292
+573,2025-03-31,EG UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps']",56.145667852,0.002742491931107207
+574,2025-03-31,EIX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.267961507000003,0.000990009078518049
+576,2025-03-31,ELV UN Equity,Both,"['fwd_dps', 'fwd_eps_LTg']",7.115164106,0.0003475473869265504
+577,2025-03-31,EMR UN Equity,Both,"['hist_pb', 'fwd_eps_STg']",3.651299509,0.00017835141738600771
+578,2025-03-31,ENPH UQ Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",39.894173966,0.0019486712757312914
+579,2025-03-31,EOG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",11.612909788,0.0005672443237155549
+580,2025-03-31,EPAM UN Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps']",97.91278736699999,0.004782649126448104
+581,2025-03-31,EQIX UW Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",167.556924523,0.00818448744285616
+582,2025-03-31,EQR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",52.811416892000004,0.002579627070755195
+583,2025-03-31,EQT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",22.144994356,0.0010816946464299875
+584,2025-03-31,ES UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_eps_STg', 'fwd_eps_LTg']",10.306989352,0.0005034553192310276
+585,2025-03-31,ESS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps_LTg']",3.6447778530000003,0.00017803286050278383
+586,2025-03-31,ETN UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",26.443404357000002,0.0012916548302754646
+587,2025-03-31,ETR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",30.927574642,0.0015106886630680534
+588,2025-03-31,EVRG UW Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",42.645720598,0.0020830733538438314
+589,2025-03-31,EW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",48.856781967,0.0023864589281858313
+591,2025-03-31,EXE UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",91.463660319,0.004467634993239334
+592,2025-03-31,EXPD UN Equity,Both,"['hist_earn_yld', 'fwd_eps']",10.267283073,0.0005015158258749446
+593,2025-03-31,EXPE UW Equity,Both,"['hist_earn_yld', 'fwd_pe', 'fwd_eps']",31.471642438000003,0.0015372642048255844
+594,2025-03-31,EXR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",7.22901429,0.00035310851431037845
+595,2025-03-31,F UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",19.471090361999998,0.0009510851014971431
+597,2025-03-31,FAST UW Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",3.934793116,0.00019219894934105385
+598,2025-03-31,FCX UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg']",22.612783974,0.0011045443034365166
+599,2025-03-31,FDS UN Equity,Both,"['hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",3.677114322,0.00017961236803570277
+600,2025-03-31,FDX UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.170015489,0.0013759928972862964
+601,2025-03-31,FE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",41.200360443,0.0020124732752575336
+602,2025-03-31,FI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",76.090235437,0.003716704506429462
+603,2025-03-31,FIS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",21.047791471,0.001028100661817818
+605,2025-03-31,FMC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",21.257187465999998,0.001038328820973524
+606,2025-03-31,FOXA UW Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",14.034162165,0.0006855128448880233
+607,2025-03-31,FRT UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",49.217864552,0.0024040963722436024
+608,2025-03-31,FSLR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",77.746171326,0.0037975903697160906
+609,2025-03-31,FTNT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",101.543417334,0.00495999091915026
+610,2025-03-31,FTV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",27.893312157,0.0013624770431812062
+611,2025-03-31,GD UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",196.042960972,0.00957591670355246
+612,2025-03-31,GDDY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",106.863490627,0.0052198552797882245
+613,2025-03-31,GE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",83.76072798,0.00409137747251203
+614,2025-03-31,GEHC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.563784981,0.0013463809549907023
+615,2025-03-31,GEN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",24.644767713,0.001203798604285483
+616,2025-03-31,GILD UW Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",37.855816622999996,0.0018491056497487786
+617,2025-03-31,GIS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",30.455268176,0.0014876183760526927
+618,2025-03-31,GL UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",19.312124235,0.0009433202402479001
+619,2025-03-31,GLW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",8.504388632000001,0.00041540546393961994
+621,2025-03-31,GNRC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",32.49328464,0.0015871673514556905
+622,2025-03-31,GOOGL UW Equity,Both,"['fwd_dps', 'fwd_eps']",9.942679737999999,0.00048566024767798355
+623,2025-03-31,GPC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",10.536648428000001,0.0005146732490719512
+624,2025-03-31,GPN UN Equity,Both,"['fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",13.934542017999998,0.0006806467980535036
+625,2025-03-31,GRMN UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",38.356420119999996,0.0018735581338625222
+626,2025-03-31,GS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.400178838000002,0.0010453133791581675
+627,2025-03-31,GWW UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",43.418421777999995,0.002120816724479176
+628,2025-03-31,HAL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",13.714560980000002,0.0006699016017669109
+630,2025-03-31,HBAN UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",20.388242215000005,0.0009958843113503917
+631,2025-03-31,HD UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",28.513399430000003,0.0013927658331777475
+632,2025-03-31,HES UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",68.165246616,0.003329600412254312
+633,2025-03-31,HIG UN Equity,Both,"['hist_pb', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",13.141366115999999,0.0006419033189142455
+634,2025-03-31,HII UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",30.329504004,0.001481475297875378
+635,2025-03-31,HOLX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_LTg']",30.494753219,0.0014895470629126008
+636,2025-03-31,HON UW Equity,Both,"['fwd_dps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",35.402234192,0.0017292579343905546
+637,2025-03-31,HPE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",24.947197170999996,0.0012185710770340563
+638,2025-03-31,HRL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",42.892414894000005,0.002095123386234818
+639,2025-03-31,HST UW Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",29.279535145,0.0014301885070349557
+640,2025-03-31,HSY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",40.834659425,0.001994610239168865
+641,2025-03-31,HUBB UN Equity,Both,"['fwd_dps', 'fwd_eps_STg', 'fwd_eps_LTg']",5.7593187939999995,0.0002813197513805413
+642,2025-03-31,HUM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",24.92330539,0.001217404058827327
+643,2025-03-31,HWM UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",70.147834957,0.0034264419449302123
+644,2025-03-31,IBM UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe']",99.810759862,0.004875357512546952
+645,2025-03-31,ICE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",46.202472691000004,0.0022568065070714977
+646,2025-03-31,IDXX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",129.329775251,0.006317243674306772
+648,2025-03-31,IFF UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",26.018101152999996,0.0012708804651308792
+649,2025-03-31,INCY UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",494.789442787,0.024168490755463363
+650,2025-03-31,INTC UW Equity,Both,"['hist_pb', 'fwd_eps_STg', 'fwd_eps_LTg']",4.846795155000001,0.00023674661132102847
+651,2025-03-31,INTU UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",41.53402282399999,0.002028771351718546
+652,2025-03-31,INVH UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",52.016195935999995,0.0025407836988849694
+653,2025-03-31,IP UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg']",58.24913514000001,0.0028452379182044556
+654,2025-03-31,IPG UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",10.464421736,0.0005111452632522312
+655,2025-03-31,IQV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg']",106.889585153,0.005221129893302302
+656,2025-03-31,IR UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.365588554,0.0011901618159065642
+657,2025-03-31,ISRG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.652516762999998,0.001008793068930718
+658,2025-03-31,IT UN Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",132.88299573900002,0.006490804322716402
+659,2025-03-31,ITW UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",99.639123611,0.004866973766276558
+660,2025-03-31,IVZ UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",10.775568559,0.0005263435445108403
+661,2025-03-31,J UN Equity,Both,"['hist_pb', 'fwd_eps_STg', 'fwd_eps_LTg']",3.657564835,0.00017865745357113335
+662,2025-03-31,JBHT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg']",126.221762766,0.006165429661080294
+663,2025-03-31,JBL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",30.921677904999996,0.001510400630985418
+664,2025-03-31,JCI UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",24.910641866,0.0012167854961898509
+665,2025-03-31,JKHY UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",68.35963576500001,0.003339095546839452
+666,2025-03-31,JNPR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",22.604553076,0.0011041422568991012
+667,2025-03-31,JPM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.782867995000004,0.0011616982408474807
+668,2025-03-31,K UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",65.86486268499999,0.0032172358325712243
+669,2025-03-31,KDP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",9.410626421,0.0004596715652984695
+670,2025-03-31,KEY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",15.227903900000001,0.0007438223672663701
+671,2025-03-31,KEYS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe']",57.502718501000004,0.002808778442558041
+672,2025-03-31,KHC UW Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",23.016761861999996,0.0011242770119529806
+673,2025-03-31,KIM UN Equity,Both,"['fwd_dps', 'fwd_pe']",32.377813175,0.0015815270309616786
+675,2025-03-31,KLAC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",51.083241005,0.002495212571703818
+676,2025-03-31,KMB UN Equity,Both,"['fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",85.187871771,0.004161087754374994
+677,2025-03-31,KMI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_eps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",30.034798634999998,0.0014670801160660359
+678,2025-03-31,KO UN Equity,Both,"['fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",3.126287979,0.0001527066982144651
+679,2025-03-31,KR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",31.132454165,0.0015206962105810283
+681,2025-03-31,LDOS UN Equity,Both,"['fwd_dps', 'fwd_eps_STg', 'fwd_eps_LTg']",1.9637738059999998,9.592251768509055e-05
+682,2025-03-31,LEN UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.866180009,0.0012634597232014603
+683,2025-03-31,LH UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",15.003586583,0.0007328653610463755
+684,2025-03-31,LHX UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.12257284,0.0011782914675738296
+685,2025-03-31,LII UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_pe']",56.590055007000004,0.002764198471139606
+686,2025-03-31,LIN UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",103.13248636799999,0.005037610603276291
+688,2025-03-31,LLY UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",164.43297823400002,0.008031895126858096
+689,2025-03-31,LMT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",39.217853252,0.0019156357064354567
+690,2025-03-31,LNT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",26.623849673000002,0.0013004688642351385
+691,2025-03-31,LRCX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",34.456077043,0.00168304193151867
+692,2025-03-31,LULU UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",47.101297632000005,0.0023007105203725455
+693,2025-03-31,LUV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.284714303999998,0.0012839034541399686
+694,2025-03-31,LW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",29.269106767,0.0014296791223644425
+695,2025-03-31,LYB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.930325492,0.0011200549400398982
+696,2025-03-31,LYV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg']",284.28271223999997,0.013886076598583017
+697,2025-03-31,MA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",114.798626931,0.00560745503803352
+698,2025-03-31,MAA UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",43.18820772299999,0.0021095716861277
+699,2025-03-31,MCHP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",9.184309116,0.0004486168676418573
+700,2025-03-31,MCO UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe']",95.60254197399999,0.004669802853679894
+702,2025-03-31,MDT UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",18.750838391,0.0009159036655217369
+703,2025-03-31,MET UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",103.11303786300002,0.005036660621379645
+704,2025-03-31,META UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",34.82751985,0.0017011854310982023
+705,2025-03-31,MGM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",80.878398245,0.0039505871614614095
+706,2025-03-31,MKC UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",31.590488674,0.0015430693694222836
+707,2025-03-31,MKTX UW Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",50.619737494999995,0.0024725722739774533
+708,2025-03-31,MLM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.345366393,0.0015799421350787056
+709,2025-03-31,MMC UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",29.319428253,0.0014321371262424997
+710,2025-03-31,MMM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",44.317656654,0.002164740761469901
+711,2025-03-31,MNST UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",12.429793747000002,0.0006071458468769471
+712,2025-03-31,MOS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.633883136,0.0012521129474982438
+713,2025-03-31,MPC UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",429.792645796,0.020993656469664036
+715,2025-03-31,MRK UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",19.417134624,0.0009484495789045187
+716,2025-03-31,MSFT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",39.979066605,0.0019528179425423733
+717,2025-03-31,MSI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",75.533816979,0.003689525684095269
+718,2025-03-31,MTB UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg']",96.809677769,0.00472876662246549
+719,2025-03-31,MU UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.287588990000003,0.0013817358938546958
+720,2025-03-31,NCLH UN Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg']",34.108338453,0.0016660562883925882
+721,2025-03-31,NDAQ UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",10.019244093,0.000489400111033985
+722,2025-03-31,NDSN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg']",18.481009966000002,0.0009027236232022385
+723,2025-03-31,NEE UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.200762979,0.0009867266984543179
+725,2025-03-31,NFLX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",56.48361531900001,0.002758999316927761
+727,2025-03-31,NKE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",49.145303631000004,0.002400552060670343
+728,2025-03-31,NOC UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_eps']",36.666938242,0.0017910336828152846
+729,2025-03-31,NOW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg']",68.21716423999999,0.003332136381107288
+730,2025-03-31,NRG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",160.659945951,0.007847597549007377
+731,2025-03-31,NSC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.305026285000004,0.0013337416247799648
+733,2025-03-31,NTRS UW Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",91.192627779,0.004454396134704838
+734,2025-03-31,NUE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'hist_eps', 'fwd_pe']",38.954609808,0.0019027773141728533
+735,2025-03-31,NVDA UW Equity,Both,"['fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",1.4785752030000001,7.222250119905299e-05
+736,2025-03-31,NWS UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",50.549341583,0.002469133714458457
+737,2025-03-31,NWSA UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",47.150775443,0.002303127314091947
+738,2025-03-31,NXPI UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",70.867398428,0.0034615897504267803
+741,2025-03-31,OKE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe']",21.36389947,0.0010435412767358053
+742,2025-03-31,OMC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.306683268,0.0011384385162511604
+743,2025-03-31,ON UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",47.403796064000005,0.002315486362225908
+744,2025-03-31,ORCL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",33.300707053000004,0.001626606715833449
+745,2025-03-31,OXY UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",18.678557298999998,0.0009123730224789975
+746,2025-03-31,PANW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps']",36.556694414,0.0017856487115376902
+747,2025-03-31,PARA UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",52.942486024,0.0025860292750690653
+748,2025-03-31,PAYC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps']",20.5246311,0.0010025463643798646
+749,2025-03-31,PAYX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",46.410735786,0.0022669793285809057
+750,2025-03-31,PCAR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.489149755999996,0.0011961972877861783
+751,2025-03-31,PCG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",20.216391347,0.0009874900818955719
+752,2025-03-31,PEG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",43.971820744999995,0.002147848056721607
+754,2025-03-31,PFE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.086774225,0.0010788508252483355
+755,2025-03-31,PFG UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",81.603006378,0.003985981378575462
+756,2025-03-31,PG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",36.3811203,0.0017770726163663661
+757,2025-03-31,PGR UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.472464026999997,0.0011465362450926587
+758,2025-03-31,PH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",31.745289339,0.0015506307644672515
+760,2025-03-31,PLD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.744065629000005,0.0016482630138843033
+761,2025-03-31,PLTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",45.40044723599999,0.0022176307625656503
+762,2025-03-31,PNC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.266373739,0.0010387775337690661
+763,2025-03-31,PNR UN Equity,Both,"['fwd_dps', 'fwd_eps_STg', 'fwd_eps_LTg']",1.3986935600000001,6.832060155563673e-05
+765,2025-03-31,PODD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",113.349256969,0.005536659096368849
+766,2025-03-31,POOL UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",177.430147979,0.008666755028192825
+767,2025-03-31,PPL UN Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_STg']",2.9834175860000003,0.00014572804937143315
+768,2025-03-31,PRU UN Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",16.089705139,0.0007859179203980175
+769,2025-03-31,PSA UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",52.062998966,0.002543069840221194
+770,2025-03-31,PTC UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",55.10806671899999,0.002691809254351785
+771,2025-03-31,PWR UN Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_LTg']",11.313402949,0.0005526146092479289
+772,2025-03-31,PYPL UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",56.256321692,0.0027478969298356214
+773,2025-03-31,QCOM UW Equity,Both,"['fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",11.894551909,0.0005810014179643662
+774,2025-03-31,RCL UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",18.652977272,0.0009111235401889316
+775,2025-03-31,REG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",37.756621687,0.001844260372775606
+776,2025-03-31,REGN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps']",65.797272942,0.00321393434321515
+777,2025-03-31,RF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",12.480697883,0.0006096323108835375
+778,2025-03-31,RJF UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",29.262372206,0.0014293501659211646
+779,2025-03-31,RL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",115.84154545199999,0.005658397447983726
+780,2025-03-31,RMD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",10.509192526,0.0005133321377702786
+781,2025-03-31,ROK UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",106.64129877699999,0.005209002094153509
+782,2025-03-31,ROL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",75.73547663,0.003699375953703874
+783,2025-03-31,ROP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",36.269185192,0.001771605032806637
+784,2025-03-31,ROST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",38.833420158,0.0018968576831492308
+785,2025-03-31,RSG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",92.96397450000002,0.004540919356805271
+786,2025-03-31,RVTY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",48.855324429,0.0023863877332680893
+787,2025-03-31,SCHW UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.536717728,0.0011496747821032216
+788,2025-03-31,SHW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",54.111653598,0.0026431384476994337
+789,2025-03-31,SJM UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",29.619129874,0.0014467763550339151
+790,2025-03-31,SLB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",23.835900605,0.0011642886723193073
+791,2025-03-31,SMCI UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe']",57.097639259999994,0.0027889919373403995
+792,2025-03-31,SNA UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.40380764,0.0009966446202771511
+794,2025-03-31,SPG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",61.760737708,0.003016765697219952
+795,2025-03-31,SPGI UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",51.133572947000005,0.002497671086315771
+797,2025-03-31,STE UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",26.634647169999997,0.0013009962788965276
+798,2025-03-31,STLD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.443857818999998,0.001145138945931014
+799,2025-03-31,STT UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",19.16424395,0.0009360968781631995
+800,2025-03-31,STZ UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.72528235,0.0012565774345458516
+801,2025-03-31,SWK UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",16.473309081,0.000804655442916212
+802,2025-03-31,SWKS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg']",13.693044381,0.0006688506017271941
+803,2025-03-31,SYF UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",31.844107717000004,0.0015554576480840694
+804,2025-03-31,SYK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",38.034097921000004,0.0018578139800605878
+805,2025-03-31,SYY UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.951574,0.001072246833518755
+807,2025-03-31,TAP UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",17.043789519,0.000832521136885578
+808,2025-03-31,TECH UW Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",36.727991481000004,0.0017940158900225588
+809,2025-03-31,TEL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.312570699,0.0012852641279272785
+810,2025-03-31,TER UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe']",29.038381215,0.0014184090994246814
+811,2025-03-31,TFC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",39.431734713,0.0019260829627144652
+812,2025-03-31,TFX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",26.154647712,0.0012775502199063515
+813,2025-03-31,TGT UN Equity,Both,"['hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",17.761483819,0.0008675776408341995
+814,2025-03-31,TJX UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_pe', 'fwd_eps']",49.442064421999994,0.0024150476416460974
+815,2025-03-31,TKO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_pe']",62.580142886000004,0.0030567903718733223
+816,2025-03-31,TMO UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",4.631883943,0.00022624905581295062
+817,2025-03-31,TMUS UW Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_eps_STg']",7.393665722,0.00036115108003237763
+818,2025-03-31,TPR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",59.583719481,0.002910427040118946
+819,2025-03-31,TRGP UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",42.442184399000006,0.0020731314223502544
+821,2025-03-31,TRV UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",8.280716454,0.000404479970186564
+822,2025-03-31,TSCO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",41.901077465,0.0020467005068916843
+823,2025-03-31,TSLA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",106.90117039400002,0.005221695786116085
+824,2025-03-31,TSN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps']",27.374850786,0.00133715227315075
+825,2025-03-31,TT UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg']",124.21378537900002,0.0060673479747744286
+826,2025-03-31,TTWO UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",76.124685355,0.003718387247516296
+827,2025-03-31,TXN UW Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",38.556810068,0.001883346383543934
+828,2025-03-31,TXT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",99.695889996,0.004869746577764543
+829,2025-03-31,UAL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",207.534383533,0.010137226860794862
+830,2025-03-31,UBER UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",63.987418452,0.0031255301701917392
+831,2025-03-31,UDR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",79.02957632900001,0.0038602795851039665
+832,2025-03-31,UHS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",39.752849382,0.0019417681334922725
+833,2025-03-31,ULTA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",52.765857000000004,0.0025774016517518717
+834,2025-03-31,UNH UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps']",487.18813884200006,0.023797197376426407
+835,2025-03-31,UNP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.18927575,0.0016211637411384853
+836,2025-03-31,UPS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",26.854376375999998,0.0013117291741943816
+837,2025-03-31,URI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.758810322000006,0.0012093691308630522
+838,2025-03-31,USB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.660928851000005,0.0010092039658769363
+839,2025-03-31,V UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",52.841469876999994,0.0025810950392026522
+841,2025-03-31,VLTO UN Equity,Both,"['fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",0.26639676,1.3012419171839603e-05
+842,2025-03-31,VMC UN Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",10.995203587999999,0.0005370718396378798
+843,2025-03-31,VRSK UW Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",480.51227617600006,0.023471108112639465
+844,2025-03-31,VRTX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",98.337645997,0.004803401775926024
+847,2025-03-31,VTRS UW Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",12.920301433999999,0.0006311051909404915
+848,2025-03-31,VZ UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'hist_eps', 'fwd_eps_STg']",18.034860729000002,0.000880931012492407
+849,2025-03-31,WAB UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.995134945999997,0.0012209126461374695
+850,2025-03-31,WAT UN Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",66.17272661799998,0.0032322737577475183
+851,2025-03-31,WBA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",94.976651227,0.0046392305871262775
+852,2025-03-31,WDAY UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",81.598259331,0.003985749504263655
+853,2025-03-31,WDC UW Equity,Both,"['hist_earn_yld', 'fwd_eps', 'fwd_eps_STg']",15.249655761,0.0007448848589164171
+854,2025-03-31,WEC UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",51.10884299199999,0.002496463126652294
+855,2025-03-31,WELL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",100.21807825900001,0.004895253391604062
+856,2025-03-31,WFC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.528050955,0.0010515594220409507
+859,2025-03-31,WSM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",41.858310039,0.002044611488714389
+860,2025-03-31,WST UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",45.595555439,0.002227161020070661
+861,2025-03-31,WTW UW Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",122.103131415,0.005964250947219464
+862,2025-03-31,WY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",6.034672842000001,0.0002947696983440061
+863,2025-03-31,XEL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",7.327836346000001,0.00035793557758282595
+864,2025-03-31,XOM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",16.451873888999998,0.000803608419283744
+865,2025-03-31,XYL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",64.057130723,0.003128935336574667
+866,2025-03-31,ZBH UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",16.812264341000002,0.0008212120554051172
+867,2025-03-31,ZBRA UW Equity,Both,"['hist_earn_yld', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",135.268415109,0.006607322544420995
+868,2025-03-31,ZTS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",42.614532147,0.00208154992241121
+449,2025-03-31,AIG UN Equity,Growth,"['fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",7.806498486000001,0.00551770198333168
+474,2025-03-31,ATO UN Equity,Growth,"['fwd_eps_STg', 'fwd_eps_LTg']",0.160200407,0.00011323106063745187
+501,2025-03-31,CAT UN Equity,Growth,"['hist_eps', 'fwd_eps', 'fwd_eps_LTg']",42.284723877,0.029887215788125282
+515,2025-03-31,CI UN Equity,Growth,"['hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",904.7750543230001,0.6395029885242516
+519,2025-03-31,CME UW Equity,Growth,"['fwd_eps', 'fwd_eps_STg']",10.698063022,0.007561485301016518
+565,2025-03-31,DUK UN Equity,Growth,"['fwd_eps', 'fwd_eps_LTg']",6.455634213000001,0.004562899200533317
+590,2025-03-31,EXC UW Equity,Growth,['fwd_eps_LTg'],0.157692467,0.00011145842652538566
+604,2025-03-31,FITB UW Equity,Growth,"['hist_sps', 'fwd_pe']",30.30320845,0.02141857500718643
+620,2025-03-31,GM UN Equity,Growth,"['fwd_eps_STg', 'fwd_eps_LTg']",0.09304013,6.576158449926039e-05
+629,2025-03-31,HAS UW Equity,Growth,"['fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",4.569927234000001,0.0032300648758139348
+647,2025-03-31,IEX UN Equity,Growth,['fwd_eps'],8.253076923,0.0058333475614314
+674,2025-03-31,KKR UN Equity,Growth,"['fwd_eps_STg', 'fwd_eps_LTg']",1.539149536,0.0010878844673654414
+687,2025-03-31,LKQ UW Equity,Growth,"['fwd_eps', 'fwd_eps_LTg']",3.8031326599999997,0.002688087707771764
+701,2025-03-31,MDLZ UW Equity,Growth,"['fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",26.420859765,0.018674496714258207
+714,2025-03-31,MPWR UW Equity,Growth,"['fwd_eps_STg', 'fwd_eps_LTg']",1.5945274189999998,0.0011270260435035512
+732,2025-03-31,NTAP UW Equity,Growth,"['fwd_eps_STg', 'fwd_eps_LTg']",0.7609156850000001,0.0005378219174450863
+739,2025-03-31,O UN Equity,Growth,"['fwd_eps', 'fwd_eps_STg']",1.56706055,0.001107612218236179
+759,2025-03-31,PHM UN Equity,Growth,['fwd_pe'],8.38177458,0.005924312200514152
+764,2025-03-31,PNW UN Equity,Growth,"['fwd_eps', 'fwd_eps_LTg']",4.580460101,0.00323750959910957
+793,2025-03-31,SO UN Equity,Growth,"['fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",25.934099712,0.018330450415567266
+796,2025-03-31,SRE UN Equity,Growth,"['fwd_eps', 'fwd_eps_STg']",4.599081354,0.0032506712649696843
+806,2025-03-31,T UN Equity,Growth,['fwd_eps'],2.145769231,0.0015166486181857172
+820,2025-03-31,TROW UW Equity,Growth,"['fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",9.221496780999999,0.006517835258542622
+840,2025-03-31,VICI UN Equity,Growth,['fwd_eps_LTg'],0.078021807,5.514650134103946e-05
+845,2025-03-31,VST UN Equity,Growth,"['fwd_pe', 'fwd_eps', 'fwd_eps_STg']",25.563481816,0.01806849441781939
+846,2025-03-31,VTR UN Equity,Growth,"['fwd_pe', 'fwd_eps']",131.63461394400002,0.09304050615477297
+857,2025-03-31,WMB UN Equity,Growth,"['fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",30.673062853,0.021679991361347888
+858,2025-03-31,WMT UN Equity,Growth,"['hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",120.755108608,0.08535077582589747
+454,2025-03-31,ALL UN Equity,Value,"['hist_earn_yld', 'fwd_dps']",12.419368554999998,0.14537154391349313
+462,2025-03-31,AMT UN Equity,Value,['hist_earn_yld'],3.175551471,0.03717055485322412
+470,2025-03-31,APH UN Equity,Value,['fwd_dps'],0.67,0.007842502941329325
+471,2025-03-31,APO UN Equity,Value,"['hist_earn_yld', 'fwd_dps']",7.853027877000001,0.09192148391599056
+533,2025-03-31,CPT UN Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy']",8.280600222,0.09692631581642873
+541,2025-03-31,CTRA UN Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dvy']",7.226810758,0.08459146959111254
+575,2025-03-31,EL UN Equity,Value,"['hist_pb', 'hist_earn_yld']",9.295367038,0.10880439303918006
+596,2025-03-31,FANG UW Equity,Value,['hist_pb'],1.23284348,0.014430714355371164
+680,2025-03-31,KVUE UN Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dvy']",9.252107218000003,0.10829802697113326
+724,2025-03-31,NEM UN Equity,Value,"['hist_pb', 'hist_earn_yld']",9.0246645,0.10563575803844825
+726,2025-03-31,NI UN Equity,Value,['fwd_dps'],1.13,0.013226907945824082
+740,2025-03-31,ODFL UW Equity,Value,"['hist_earn_yld', 'fwd_dps', 'fwd_dvy']",4.431446963,0.051871098271152834
+753,2025-03-31,PEP UW Equity,Value,"['hist_pb', 'fwd_dvy']",11.440121221999998,0.13390923034731195
+869,2025-04-30,A UN Equity,Both,"['fwd_dps', 'fwd_eps_LTg']",1.2458019660000001,7.107061571464623e-05
+870,2025-04-30,AAPL UW Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_LTg']",8.498276782000001,0.00048481041119999524
+871,2025-04-30,ABNB UW Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",41.640568619,0.0023755146734615973
+872,2025-04-30,ACGL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps']",31.275142054,0.0017841869438347036
+873,2025-04-30,ACN UN Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",19.553262753,0.0011154761840261604
+874,2025-04-30,ADBE UW Equity,Both,"['hist_pb', 'fwd_eps']",33.34748783,0.001902410300590882
+875,2025-04-30,ADI UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",40.08219313200001,0.002286612337136579
+876,2025-04-30,ADM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",24.268965414,0.0013844979874838583
+877,2025-04-30,ADP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",52.431603022,0.002991122514956318
+878,2025-04-30,ADSK UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",64.443063931,0.00367635335078166
+879,2025-04-30,AEE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",51.049188136999994,0.0029122583939070485
+880,2025-04-30,AEP UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.703167493,0.0011810760466972635
+881,2025-04-30,AES UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",27.847990911,0.0015886745361426424
+882,2025-04-30,AFL UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",25.058142100999998,0.0014295190057383234
+883,2025-04-30,AIG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.553223526999997,0.0016289067059489712
+884,2025-04-30,AIZ UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe']",13.893946338,0.0007926230234797318
+885,2025-04-30,AJG UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",34.142570661,0.0019477682530467976
+886,2025-04-30,AKAM UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",26.95129636,0.0015375198297071107
+887,2025-04-30,ALGN UW Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",31.753553961,0.0018114794266880403
+889,2025-04-30,ALLE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",25.085777147,0.001431095532175209
+890,2025-04-30,AMAT UW Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",16.105700092000003,0.0009187993383322968
+891,2025-04-30,AMCR UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",13.967672532,0.0007968289616182799
+892,2025-04-30,AMD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg']",11.104758150000002,0.0006335051802950325
+893,2025-04-30,AME UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe']",28.005355249,0.001597651870180007
+894,2025-04-30,AMGN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",45.028157798,0.002568770146891957
+895,2025-04-30,AMP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",15.835115418999997,0.0009033630010669111
+897,2025-04-30,AMZN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",10.587317781000001,0.0006039861984471231
+898,2025-04-30,ANET UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",49.056018462000004,0.002798551882043982
+899,2025-04-30,ANSS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",47.420286049,0.0027052364812748084
+900,2025-04-30,AON UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",36.029769456,0.002055429329202611
+901,2025-04-30,AOS UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",28.119207349,0.001604146914391075
+902,2025-04-30,APA UW Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_eps_LTg']",1.4594030939999998,8.325615089488445e-05
+903,2025-04-30,APD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",29.047909671,0.0016571276028483942
+904,2025-04-30,APH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",41.470281637999996,0.0023658001273955667
+905,2025-04-30,APO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",29.788352722,0.00169936846052272
+906,2025-04-30,APTV UN Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",77.01972651,0.004393827859185896
+907,2025-04-30,ARE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",32.825653821,0.0018726406699973853
+908,2025-04-30,ATO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",6.540773644000001,0.0003731386069503203
+909,2025-04-30,AVB UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",65.10307460199999,0.0037140056952524396
+910,2025-04-30,AVGO UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",42.49558235999999,0.002424291569529967
+911,2025-04-30,AVY UN Equity,Both,"['fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",128.520956001,0.007331874346412796
+912,2025-04-30,AWK UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_eps']",11.840877929000001,0.0006754994035833743
+913,2025-04-30,AXP UN Equity,Both,"['fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",15.904855747000001,0.0009073415531854439
+914,2025-04-30,BAC UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'hist_eps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",17.092068568,0.000975069770410614
+915,2025-04-30,BALL UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.267463205,0.0011562199516975936
+916,2025-04-30,BAX UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",5.079361771,0.00028976785906148256
+917,2025-04-30,BBY UN Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_LTg']",11.325623692999999,0.0006461051364353806
+918,2025-04-30,BDX UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps_STg']",16.68675054,0.0009519471533363316
+919,2025-04-30,BEN UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'fwd_pe', 'fwd_eps_LTg']",21.714964528000003,0.0012387971293558405
+920,2025-04-30,BF/B UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",30.134414487999997,0.0017191106213605989
+921,2025-04-30,BG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_LTg']",389.15216060500006,0.022200385306569863
+922,2025-04-30,BIIB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",34.720006055,0.0019807098361450935
+923,2025-04-30,BK UN Equity,Both,"['fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",7.108096345,0.0004055032802847386
+924,2025-04-30,BKR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",9.590089167,0.0005470962162994762
+925,2025-04-30,BMY UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",16.772473511,0.000956837484621825
+926,2025-04-30,BR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",44.27526575499999,0.002525819098071194
+927,2025-04-30,BRO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",34.414280510999994,0.001963268779504655
+928,2025-04-30,BSX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",47.233745690000006,0.0026945947111286853
+929,2025-04-30,BWA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps']",19.916144571,0.0011361778966103178
+930,2025-04-30,BX UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",41.787469909,0.0023838951106534712
+931,2025-04-30,BXP UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",2062.485228741,0.11766083142381702
+932,2025-04-30,C UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_eps', 'fwd_eps', 'fwd_eps_STg']",24.353581617999996,0.001389325179832113
+933,2025-04-30,CAG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",21.91653351,0.0012502962536554358
+934,2025-04-30,CARR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",28.272941809000002,0.0016129171708418977
+935,2025-04-30,CAT UN Equity,Both,"['fwd_dps', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_LTg']",177.54117557799998,0.01012838397064351
+936,2025-04-30,CB UN Equity,Both,"['fwd_dvy', 'fwd_eps_STg']",0.158618792,9.04889823504533e-06
+937,2025-04-30,CBOE UF Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",32.851174977,0.0018740966030591165
+938,2025-04-30,CBRE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",9.109632081,0.0005196870599019138
+939,2025-04-30,CCL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_LTg']",13.815470432,0.0007881461233700842
+940,2025-04-30,CDW UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",35.358764799,0.0020171497988904995
+941,2025-04-30,CE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",27.780382661,0.0015848176149898228
+942,2025-04-30,CEG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",32.391870286,0.0018478941502769902
+943,2025-04-30,CF UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",24.26472829,0.0013842562676762502
+944,2025-04-30,CFG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",32.092855928,0.001830835953941972
+945,2025-04-30,CHD UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",28.289005908,0.0016138335969176217
+946,2025-04-30,CHRW UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",11.082737938999998,0.0006322489694391758
+947,2025-04-30,CHTR UW Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",20.037061111,0.001143075953590816
+948,2025-04-30,CI UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",14.577575534999998,0.000831622759615402
+949,2025-04-30,CINF UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",20.036087261000002,0.0011430203973138134
+950,2025-04-30,CL UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",2.192398637,0.00012507214250418125
+951,2025-04-30,CMCSA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.758078914000002,0.0011842086380775506
+952,2025-04-30,CME UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",18.778217018,0.0010712613095141864
+953,2025-04-30,CMG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg']",62.055545523,0.0035401499991113902
+954,2025-04-30,CMI UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",24.974609439,0.0014247536273855467
+955,2025-04-30,CMS UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_pe', 'fwd_eps_LTg']",25.135188085,0.0014339143315370154
+956,2025-04-30,CNC UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",9.364354942,0.000534218511177426
+957,2025-04-30,CNP UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.516610323,0.0013986256551562237
+958,2025-04-30,COF UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",172.003715836,0.009812482499864321
+959,2025-04-30,COIN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",44.604854606,0.002544621510663673
+960,2025-04-30,COO UW Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",1.3375746030000002,7.630606885676042e-05
+961,2025-04-30,COP UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe']",22.006083560999997,0.0012554049125238131
+962,2025-04-30,COR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_LTg']",273.40879591099997,0.015597448067596657
+963,2025-04-30,COST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",90.64713853900001,0.005171245610907607
+964,2025-04-30,CPAY UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",44.797578233,0.0025556160244045913
+965,2025-04-30,CPB UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",22.832581577,0.0013025550411053678
+966,2025-04-30,CPT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_eps_LTg']",8.420384733999999,0.0004803668190708149
+967,2025-04-30,CRL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",30.269003154000004,0.001726788646939211
+968,2025-04-30,CRM UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",16.103119494,0.0009186521201597642
+969,2025-04-30,CRWD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",176.233213766,0.010053767254787337
+970,2025-04-30,CSCO UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",19.504526796000004,0.0011126958910374174
+971,2025-04-30,CSGP UW Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps']",84.43668499600001,0.00481695113296149
+972,2025-04-30,CSX UW Equity,Both,"['fwd_dps', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",9.835366286,0.0005610888060880563
+973,2025-04-30,CTAS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",70.490868724,0.004021369029108579
+975,2025-04-30,CTSH UW Equity,Both,"['fwd_dps', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",6.326109376,0.00036089242166962226
+976,2025-04-30,CTVA UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.514782887,0.0013985214034330418
+977,2025-04-30,CVS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",13.464256583000001,0.0007681100460663335
+978,2025-04-30,D UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.274150165000002,0.0011566014299561208
+979,2025-04-30,DAL UN Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_STg']",6.1094688239999995,0.0003485334931724739
+980,2025-04-30,DASH UW Equity,Both,"['hist_pb', 'fwd_eps']",13.881679557,0.0007919232271218036
+981,2025-04-30,DAY UN Equity,Both,"['hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",17.786537892,0.0010146879150263965
+982,2025-04-30,DD UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",31.802980260000002,0.0018142991023654717
+983,2025-04-30,DE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",34.658537745,0.0019772031868076664
+984,2025-04-30,DECK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe']",29.694914118,0.0016940379671545652
+985,2025-04-30,DFS UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",32.533518541,0.0018559749118847745
+987,2025-04-30,DGX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",25.830421433,0.0014735760622584413
+988,2025-04-30,DHI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe']",23.407492019,0.0013353525805288363
+989,2025-04-30,DHR UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_pe', 'fwd_eps_STg']",30.096193674000002,0.001716930197137304
+990,2025-04-30,DIS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",52.843057830999996,0.0030145952236310947
+991,2025-04-30,DLR UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",119.679716656,0.00682749857796927
+992,2025-04-30,DLTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",40.887767493,0.002332568811281525
+993,2025-04-30,DOC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",53.227619226,0.003036533714553924
+994,2025-04-30,DOV UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",77.37092254800001,0.004413862920406216
+995,2025-04-30,DOW UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",3.4457914,0.00019657579864682347
+996,2025-04-30,DRI UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",34.693579788,0.0019792022682346335
+997,2025-04-30,DTE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",9.796801597999998,0.0005588887645117828
+998,2025-04-30,DUK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",26.317191942999997,0.0015013453874012724
+999,2025-04-30,DVN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",28.766996198999998,0.0016411020273858017
+1000,2025-04-30,DXCM UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe']",50.813864148,0.002898833611118854
+1001,2025-04-30,EA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_eps', 'fwd_eps_STg']",16.232090177999996,0.0009260096506270252
+1002,2025-04-30,EBAY UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe']",19.118895831,0.0010906963831949458
+1004,2025-04-30,ED UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",21.958850401,0.0012527103512251772
+1005,2025-04-30,EFX UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",41.067659772,0.0023428313211986437
+1006,2025-04-30,EG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",64.512867704,0.0036803355223159083
+1007,2025-04-30,EIX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.899009158999995,0.001591585029461002
+1009,2025-04-30,ELV UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",49.826422876,0.0028425019780837736
+1010,2025-04-30,EMR UN Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_STg']",8.730730105,0.0004980714279919092
+1011,2025-04-30,ENPH UQ Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",32.978766624,0.0018813754621071974
+1012,2025-04-30,EOG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",27.694550322999998,0.0015799210445264817
+1013,2025-04-30,EPAM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps']",18.060157863,0.0010302974102282959
+1014,2025-04-30,EQIX UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",81.648835486,0.0046579096587923315
+1015,2025-04-30,EQR UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",54.75235941800001,0.0031235172217306244
+1016,2025-04-30,EQT UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps_LTg']",2.8051280409999997,0.00016002718126412828
+1017,2025-04-30,ES UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_eps_STg', 'fwd_eps_LTg']",10.613632562000001,0.0006054874062948446
+1018,2025-04-30,ESS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",5.198155201,0.00029654479668348875
+1019,2025-04-30,ETN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",34.343741708,0.0019592446759169233
+1020,2025-04-30,ETR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",34.214733706000004,0.0019518850165292482
+1021,2025-04-30,EVRG UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",18.831206203,0.0010742842410128893
+1022,2025-04-30,EW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",40.704955416000004,0.002322139732481642
+1023,2025-04-30,EXC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",7.13901172,0.00040726694320730874
+1025,2025-04-30,EXPD UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",32.466036562,0.0018521251942506215
+1027,2025-04-30,EXR UN Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_LTg']",11.4798515,0.0006549035373875025
+1028,2025-04-30,F UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",19.640181611,0.0011204347383741745
+1030,2025-04-30,FAST UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",50.330995765999994,0.002871286894903545
+1031,2025-04-30,FCX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_pe']",26.490667846,0.001511241855358736
+1032,2025-04-30,FDS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.223801983,0.0018953542599508904
+1033,2025-04-30,FDX UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",32.515404436,0.0018549415368937208
+1035,2025-04-30,FI UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",58.814944062,0.0033552798934247435
+1036,2025-04-30,FIS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",21.714160007,0.0012387512329739227
+1038,2025-04-30,FMC UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",13.054934953000002,0.0007447590311672106
+1039,2025-04-30,FOXA UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.018702323,0.0011420286199033246
+1040,2025-04-30,FRT UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_eps']",7.575649448,0.00043217628917089046
+1041,2025-04-30,FSLR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",37.766949567999994,0.0021545321268675475
+1043,2025-04-30,FTV UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_eps']",7.876361994,0.0004493313638782768
+1044,2025-04-30,GD UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",32.753232852000004,0.0018685091924448116
+1045,2025-04-30,GDDY UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",74.148420944,0.004230025376889515
+1046,2025-04-30,GE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",55.750365867,0.0031804515778750078
+1047,2025-04-30,GEHC UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",7.752667648999999,0.0004422748384436638
+1048,2025-04-30,GEN UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",26.507923308,0.0015122262464114474
+1049,2025-04-30,GILD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.007919769,0.0015407500867233308
+1050,2025-04-30,GIS UN Equity,Both,"['hist_earn_yld', 'fwd_pe', 'fwd_eps_LTg']",22.552126345,0.0012865556073569757
+1051,2025-04-30,GL UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",33.182004358,0.0018929697855117483
+1052,2025-04-30,GLW UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",24.518342220000005,0.0013987244565624697
+1053,2025-04-30,GM UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",1.20725173,6.887139859728865e-05
+1054,2025-04-30,GNRC UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",25.615249769,0.0014613009310079058
+1055,2025-04-30,GOOGL UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps']",14.915314313,0.0008508901099313127
+1056,2025-04-30,GPC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",10.255327938,0.0005850468138603606
+1057,2025-04-30,GPN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",17.308650756,0.0009874253693533638
+1058,2025-04-30,GRMN UN Equity,Both,"['hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.917127576,0.0015926186504433956
+1059,2025-04-30,GS UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.303398529,0.001443510415144989
+1060,2025-04-30,GWW UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",63.981314018999996,0.003650011402825524
+1061,2025-04-30,HAL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps']",18.248783264,0.0010410581280264342
+1062,2025-04-30,HAS UW Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",11.603651875,0.0006619661116305055
+1064,2025-04-30,HD UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",78.335240548,0.004468875415068402
+1065,2025-04-30,HES UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",29.360763979,0.0016749753418192441
+1066,2025-04-30,HIG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",33.223279349,0.001895324444682343
+1067,2025-04-30,HII UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_eps']",21.382314839,0.001219820101818772
+1068,2025-04-30,HOLX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_LTg']",22.472912728999997,0.0012820366223049776
+1069,2025-04-30,HON UW Equity,Both,"['fwd_dps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",35.251949210999996,0.00201105617420996
+1071,2025-04-30,HRL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",21.882868437000003,0.0012483757257292596
+1072,2025-04-30,HST UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",21.210154405,0.0012099986788478595
+1073,2025-04-30,HSY UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe']",34.670512563,0.0019778863272357267
+1074,2025-04-30,HUBB UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",44.654410055999996,0.0025474485541582535
+1075,2025-04-30,HUM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.499198287,0.0015117285006769595
+1076,2025-04-30,HWM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_LTg']",57.538377676,0.0032824542264811097
+1077,2025-04-30,IBM UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",47.985710663999996,0.002737492872438881
+1078,2025-04-30,ICE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",28.9338799,0.001650622422847121
+1079,2025-04-30,IDXX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",61.037715344,0.003482084737144643
+1080,2025-04-30,IEX UN Equity,Both,"['hist_pb', 'fwd_eps']",11.587367381,0.0006610371124422176
+1081,2025-04-30,IFF UN Equity,Both,"['hist_pb', 'fwd_pe']",19.991849287,0.0011404967056389292
+1082,2025-04-30,INCY UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",29.463733479,0.0016808495545469107
+1083,2025-04-30,INTC UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",3.67809955,0.00020982853359717947
+1084,2025-04-30,INTU UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",44.220207372,0.0025226781227903265
+1085,2025-04-30,INVH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",52.567608827,0.002998881385600223
+1086,2025-04-30,IP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg']",5.269696638,0.0003006260986202852
+1087,2025-04-30,IPG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",14.860411196,0.0008477579922783187
+1088,2025-04-30,IQV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",22.524852567,0.001284999690567449
+1089,2025-04-30,IR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",44.189833234000005,0.0025209453364018184
+1090,2025-04-30,ISRG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.796891741000003,0.0011864228355084416
+1091,2025-04-30,IT UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",71.173351247,0.004060303349689106
+1092,2025-04-30,ITW UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",69.507720742,0.003965282320043816
+1093,2025-04-30,IVZ UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",16.337609518,0.0009320293268422444
+1094,2025-04-30,J UN Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",9.966803429,0.0005685870433165438
+1095,2025-04-30,JBHT UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",5.401560117000001,0.0003081486575008877
+1096,2025-04-30,JBL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",41.703344333000004,0.002379095907692774
+1097,2025-04-30,JCI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_pe', 'fwd_eps']",35.615674206,0.0020318059884267864
+1098,2025-04-30,JKHY UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",43.452937287,0.002478906834215896
+1099,2025-04-30,JNPR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",22.726307972,0.0012964923355167615
+1100,2025-04-30,JPM UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",139.81525336800001,0.007976192375958271
+1101,2025-04-30,K UN Equity,Both,"['hist_pb', 'hist_sps', 'fwd_eps_STg']",44.739099311,0.002552279913926123
+1102,2025-04-30,KDP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_eps', 'fwd_eps_LTg']",10.248146044999999,0.0005846371006222722
+1103,2025-04-30,KEY UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",31.062312626,0.0017720454326612047
+1104,2025-04-30,KEYS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'hist_sps', 'fwd_pe']",56.97154853800001,0.003250117709970377
+1105,2025-04-30,KHC UW Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe']",12.842337578,0.0007326307581728431
+1106,2025-04-30,KIM UN Equity,Both,"['fwd_dps', 'fwd_pe']",30.453855394,0.0017373341131301282
+1107,2025-04-30,KKR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",8.659118161999999,0.0004939861038228732
+1108,2025-04-30,KLAC UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",77.38313182799999,0.004414559436442242
+1109,2025-04-30,KMB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",65.129544435,0.0037155157485197457
+1110,2025-04-30,KMI UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe']",22.310020036999997,0.0012727439062619717
+1111,2025-04-30,KO UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",5.284692850999999,0.0003014816038453411
+1112,2025-04-30,KR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.057966236,0.0012013166353365275
+1113,2025-04-30,KVUE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg']",10.464459838000002,0.0005969773881444069
+1114,2025-04-30,LDOS UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.11036888,0.0011472580213846447
+1115,2025-04-30,LEN UN Equity,Both,"['fwd_dps', 'hist_eps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.479267859,0.0015676395923481937
+1117,2025-04-30,LHX UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",33.53108364,0.001912884089857104
+1118,2025-04-30,LII UN Equity,Both,"['fwd_dps', 'fwd_eps', 'fwd_eps_STg']",28.064022701,0.001600998735933829
+1119,2025-04-30,LIN UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",33.382992336,0.0019044357646461093
+1120,2025-04-30,LKQ UW Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",16.073378389,0.0009169554470912742
+1121,2025-04-30,LLY UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",106.85309513,0.006095764390457517
+1122,2025-04-30,LMT UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe']",31.093241275,0.0017738098528400474
+1123,2025-04-30,LNT UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",21.556860816,0.0012297776154481129
+1126,2025-04-30,LUV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",8.252414396,0.0004707844330501967
+1127,2025-04-30,LW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",25.272810931000002,0.0014417654512723828
+1128,2025-04-30,LYB UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",17.032377838,0.0009716645286070731
+1129,2025-04-30,LYV UN Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg']",182.433610961,0.010407488037343893
+1130,2025-04-30,MA UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",80.27410853600001,0.0045794841197078825
+1131,2025-04-30,MAA UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",45.7135882,0.002607872638322507
+1132,2025-04-30,MCHP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",61.779490188,0.0035244015710584496
+1133,2025-04-30,MCO UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps']",36.091333746000004,0.00205894145401518
+1134,2025-04-30,MDLZ UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",8.803264101999998,0.0005022093535753675
+1135,2025-04-30,MDT UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",17.753779714,0.0010128191237227312
+1136,2025-04-30,MET UN Equity,Both,"['hist_pb', 'fwd_dps', 'hist_sps', 'fwd_eps_STg']",109.47777589900001,0.006245497400517016
+1137,2025-04-30,META UW Equity,Both,"['fwd_dps', 'hist_eps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",49.881072388999996,0.0028456196281143684
+1138,2025-04-30,MGM UN Equity,Both,"['hist_earn_yld', 'fwd_pe', 'fwd_eps_LTg']",22.735016085999998,0.0012969891167392861
+1139,2025-04-30,MKC UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'hist_eps', 'fwd_pe']",32.978972952999996,0.0018813872327814053
+1140,2025-04-30,MKTX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",38.665292926999996,0.0022057808946410393
+1141,2025-04-30,MLM UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",31.530340696,0.0017987455375048647
+1142,2025-04-30,MMC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",38.337725896,0.0021870938230065832
+1143,2025-04-30,MMM UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",26.016233768,0.0014841763000299603
+1144,2025-04-30,MNST UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",12.893611874,0.0007355558585391199
+1145,2025-04-30,MOS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",27.407362612999997,0.001563537535804856
+1146,2025-04-30,MPC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",427.941032005,0.024413216116369877
+1147,2025-04-30,MPWR UW Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",27.374288345000004,0.0015616507121721899
+1148,2025-04-30,MRK UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",26.410310297000002,0.001506657611120395
+1149,2025-04-30,MSFT UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",39.86428656,0.002274181184623605
+1150,2025-04-30,MSI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",75.944809452,0.004332505900127247
+1151,2025-04-30,MTB UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",120.99559733200002,0.006902567049847349
+1152,2025-04-30,MU UW Equity,Both,"['fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",2.436462357,0.00013899551020418616
+1153,2025-04-30,NCLH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg']",16.543900179,0.0009437978138839893
+1154,2025-04-30,NDAQ UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",7.781066205,0.00044389492166347705
+1155,2025-04-30,NDSN UW Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_STg']",14.030852477,0.0008004332564536658
+1158,2025-04-30,NFLX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",91.76867632299998,0.005235227193078363
+1160,2025-04-30,NKE UN Equity,Both,"['fwd_dps', 'fwd_eps']",3.30469697,0.00018852663169438745
+1161,2025-04-30,NOC UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps']",32.924011106,0.0018782517646944142
+1162,2025-04-30,NOW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg']",76.858627941,0.004384637494423236
+1163,2025-04-30,NRG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",31.882653591999997,0.0018188443133346419
+1164,2025-04-30,NSC UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.026008696,0.001313589687717284
+1165,2025-04-30,NTAP UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",26.523415765,0.0015131100614061035
+1166,2025-04-30,NTRS UW Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",112.236320276,0.00640286707298514
+1167,2025-04-30,NUE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",21.007715045,0.0011984499011506514
+1168,2025-04-30,NVDA UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",59.704020894,0.003406000023583751
+1171,2025-04-30,NXPI UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",26.570480694,0.0015157950254484512
+1172,2025-04-30,O UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",43.73727603099999,0.0024951278148846717
+1174,2025-04-30,OKE UN Equity,Both,"['hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",25.171493851000005,0.0014359855059403572
+1176,2025-04-30,ON UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",31.121556625,0.001775425189316949
+1177,2025-04-30,ORCL UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",47.160761385,0.0026904310963364315
+1179,2025-04-30,PANW UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe']",75.274545441,0.004294268622250662
+1180,2025-04-30,PARA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",21.957223428,0.00125261753553214
+1181,2025-04-30,PAYC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.768476424000003,0.0011848017961056856
+1182,2025-04-30,PAYX UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",46.301250612,0.0026413976532069306
+1183,2025-04-30,PCAR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",16.685726823,0.0009518887522425035
+1184,2025-04-30,PCG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",19.345474961,0.0011036222885287546
+1185,2025-04-30,PEG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",29.016996589999998,0.0016553640707941296
+1186,2025-04-30,PEP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",24.119339745,0.0013759621296888277
+1187,2025-04-30,PFE UN Equity,Both,"['fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",20.063720663999998,0.0011445968300206957
+1188,2025-04-30,PFG UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",75.86296819400002,0.004327837013132635
+1189,2025-04-30,PG UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",35.029474182,0.0019983643999764273
+1190,2025-04-30,PGR UN Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",23.791909008999998,0.0013572828334230357
+1191,2025-04-30,PH UN Equity,Both,"['fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg']",205.470788869,0.011721714907210147
+1193,2025-04-30,PLD UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",42.001186177,0.002396087214350148
+1194,2025-04-30,PLTR UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",272.47278643299995,0.015544050519887052
+1195,2025-04-30,PNC UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'hist_eps', 'fwd_pe', 'fwd_eps_LTg']",41.719976638,0.0023800447488323486
+1196,2025-04-30,PNR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",9.167378604000001,0.0005229813884204081
+1197,2025-04-30,PNW UN Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_LTg']",6.269029099,0.00035763610120917395
+1199,2025-04-30,POOL UW Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",159.11464711500003,0.009077185819501035
+1200,2025-04-30,PPL UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",24.648225140999998,0.0014061340284031087
+1201,2025-04-30,PRU UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",14.877706487000001,0.0008487446554991842
+1202,2025-04-30,PSA UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",51.620685552,0.0029448612266781272
+1203,2025-04-30,PTC UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",39.470914484000005,0.002251740061227378
+1204,2025-04-30,PWR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",37.707050474999996,0.0021511149983539945
+1205,2025-04-30,PYPL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.819854954000004,0.0016441175181028552
+1206,2025-04-30,QCOM UW Equity,Both,"['hist_pb', 'fwd_eps', 'fwd_eps_LTg']",17.802097652999997,0.0010155755695853254
+1207,2025-04-30,RCL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",13.977933535,0.0007974143321835562
+1208,2025-04-30,REG UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_LTg']",7.3838422360000004,0.00042123405515024704
+1209,2025-04-30,REGN UW Equity,Both,"['hist_earn_yld', 'fwd_pe']",22.596398641,0.001289081257036213
+1210,2025-04-30,RF UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",22.893312902999998,0.0013060196469173535
+1211,2025-04-30,RJF UN Equity,Both,"['hist_pb', 'hist_eps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",23.670634224,0.0013503643392515383
+1212,2025-04-30,RL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",40.977424588000005,0.0023376835768050505
+1214,2025-04-30,ROK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",27.108896996,0.0015465106440927252
+1215,2025-04-30,ROL UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",21.49429267,0.001226208222573721
+1216,2025-04-30,ROP UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",34.140086251,0.0019476265222154081
+1217,2025-04-30,ROST UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",30.052056983,0.001714412283463553
+1218,2025-04-30,RSG UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",49.374617866,0.002816727367736384
+1220,2025-04-30,SCHW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",12.170014874,0.0006942760358042193
+1221,2025-04-30,SHW UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",53.445950623,0.003048989102519357
+1222,2025-04-30,SJM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",21.139643431,0.0012059761628512686
+1223,2025-04-30,SLB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.934144546,0.001308349013933821
+1224,2025-04-30,SMCI UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg']",22.45851021,0.0012812149861853475
+1225,2025-04-30,SNA UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",19.542377734000002,0.001114855214543443
+1226,2025-04-30,SO UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",33.436052944,0.0019074627706901447
+1227,2025-04-30,SPG UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",21.312218556,0.0012158212431493535
+1228,2025-04-30,SPGI UN Equity,Both,"['fwd_dvy', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",78.24440851600001,0.004463693621639724
+1229,2025-04-30,SRE UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",6.249577906,0.00035652644790903264
+1230,2025-04-30,STE UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",40.14379191,0.002290126429423482
+1231,2025-04-30,STLD UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",19.762754728,0.0011274272998992008
+1232,2025-04-30,STT UN Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",20.126837185000003,0.0011481975066383763
+1233,2025-04-30,STZ UN Equity,Both,"['fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",28.077426098999997,0.001601763374114315
+1234,2025-04-30,SWK UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",22.483662671999998,0.0012826498859606454
+1235,2025-04-30,SWKS UW Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg']",6.0443868389999995,0.0003448206905986165
+1236,2025-04-30,SYF UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_eps_STg', 'fwd_eps_LTg']",2.7182292390000002,0.00015506977107249505
+1237,2025-04-30,SYK UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",35.306267982,0.002014154956043022
+1238,2025-04-30,SYY UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",35.89934767,0.002047989016145966
+1239,2025-04-30,T UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps']",13.206734001000001,0.0007534188760708885
+1240,2025-04-30,TAP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",26.213598643,0.001495435588078551
+1241,2025-04-30,TECH UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_LTg']",34.104521325,0.0019455976113149209
+1242,2025-04-30,TEL UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",33.884715916,0.0019330581337884906
+1243,2025-04-30,TER UW Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",30.158472389,0.0017204830785275769
+1244,2025-04-30,TFC UN Equity,Both,"['hist_earn_yld', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",93.95450161299999,0.005359924338728031
+1245,2025-04-30,TFX UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",25.890604728,0.0014770094039516797
+1247,2025-04-30,TJX UN Equity,Both,"['hist_pb', 'fwd_pe']",45.75168731,0.002610046119565737
+1248,2025-04-30,TKO UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",68.33339672999999,0.0038982893846824227
+1249,2025-04-30,TMO UN Equity,Both,"['fwd_dps', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",155.626844634,0.008878213369159163
+1250,2025-04-30,TMUS UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",35.212302734000005,0.0020087944186435013
+1251,2025-04-30,TPR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",24.867364688,0.0014186355197779576
+1252,2025-04-30,TRGP UN Equity,Both,"['fwd_dps', 'fwd_eps_STg', 'fwd_eps_LTg']",4.7459558610000006,0.0002707476905649738
+1253,2025-04-30,TROW UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",15.507610037,0.0008846794463898106
+1254,2025-04-30,TRV UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_LTg']",9.581796388999999,0.0005466231292001379
+1255,2025-04-30,TSCO UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",36.64119546,0.002090310011489338
+1256,2025-04-30,TSLA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_LTg']",136.477232243,0.007785764665056548
+1257,2025-04-30,TSN UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",23.188900471,0.001322882351447196
+1258,2025-04-30,TT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",60.452992819,0.0034487274371819516
+1259,2025-04-30,TTWO UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",52.012379453,0.0029672066134052997
+1260,2025-04-30,TXN UW Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe']",33.843457044000004,0.001930704394175969
+1261,2025-04-30,TXT UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_pe', 'fwd_eps_STg']",13.372549672999998,0.0007628783425236631
+1262,2025-04-30,UAL UW Equity,Both,"['hist_pb', 'fwd_pe', 'fwd_eps']",18.848001490999998,0.0010752423800204052
+1263,2025-04-30,UBER UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",47.293235616,0.0026979884974486835
+1264,2025-04-30,UDR UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",79.87851708100001,0.004556916384991125
+1265,2025-04-30,UHS UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_eps_LTg']",1.725525972,9.843795130248928e-05
+1266,2025-04-30,ULTA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",54.045906365,0.0030832154283313017
+1267,2025-04-30,UNH UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg']",18.923791874000003,0.0010795660761872639
+1268,2025-04-30,UNP UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",31.736426605000002,0.0018105023438372305
+1269,2025-04-30,UPS UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",26.816639461,0.0015298379115665553
+1270,2025-04-30,URI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.970566099,0.0014245229625839278
+1271,2025-04-30,USB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",25.156619825000003,0.001435136971249591
+1272,2025-04-30,V UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",51.411062246,0.0029329026186231135
+1273,2025-04-30,VICI UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_LTg']",11.983933437000003,0.0006836604462790892
+1274,2025-04-30,VLTO UN Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",0.523255488,2.985072324747614e-05
+1275,2025-04-30,VMC UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_eps_LTg']",6.687483425,0.0003815081189205967
+1276,2025-04-30,VRSK UW Equity,Both,"['hist_pb', 'hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",478.67675379400004,0.027307591855596496
+1277,2025-04-30,VRTX UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_pe', 'fwd_eps_LTg']",39.397919482,0.002247575836191766
+1278,2025-04-30,VST UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_pe']",36.094252905000005,0.0020591079864442185
+1279,2025-04-30,VTR UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",120.228190451,0.0068587879573231625
+1280,2025-04-30,VTRS UW Equity,Both,"['hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg', 'fwd_eps_LTg']",13.239091031000001,0.000755264782649589
+1281,2025-04-30,VZ UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps_STg']",12.120686398,0.0006914619407415493
+1282,2025-04-30,WAB UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.930595427000004,0.0014222427123137434
+1283,2025-04-30,WAT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps_STg', 'fwd_eps_LTg']",14.909797569999999,0.0008505753903109798
+1284,2025-04-30,WBA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg']",47.40241945099999,0.0027042172260839828
+1285,2025-04-30,WDAY UW Equity,Both,"['hist_earn_yld', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",44.126567742,0.002517336161273955
+1286,2025-04-30,WDC UW Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps_LTg']",11.948062901,0.0006816141009135252
+1287,2025-04-30,WEC UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",24.02387874,0.001370516262217714
+1288,2025-04-30,WELL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'hist_sps', 'fwd_pe', 'fwd_eps_LTg']",92.40334549399999,0.005271433853518064
+1289,2025-04-30,WFC UN Equity,Both,"['hist_pb', 'hist_eps', 'hist_sps', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",49.92732835899999,0.0028482584425953998
+1290,2025-04-30,WMB UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",36.84946993900001,0.002102191671547802
+1291,2025-04-30,WMT UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",48.373934999,0.002759640327072019
+1293,2025-04-30,WST UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe']",41.782846799,0.0023836313710839537
+1294,2025-04-30,WTW UW Equity,Both,"['fwd_dps', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",38.778168939,0.0022122202549014914
+1295,2025-04-30,WY UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'hist_eps']",4.397714486,0.00025088118720888175
+1296,2025-04-30,XEL UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",11.183579611,0.0006380017936554884
+1297,2025-04-30,XOM UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",31.443539066,0.0017937936707896895
+1298,2025-04-30,XYL UN Equity,Both,"['hist_pb', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",32.719293636,0.0018665730251856306
+1299,2025-04-30,ZBH UN Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_dvy', 'fwd_pe', 'fwd_eps']",27.563402140999997,0.0015724392919695134
+1300,2025-04-30,ZBRA UW Equity,Both,"['hist_pb', 'hist_earn_yld', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",23.311971904,0.001329903340945453
+1301,2025-04-30,ZTS UN Equity,Both,"['hist_pb', 'fwd_dps', 'fwd_dvy', 'fwd_pe']",42.425636946,0.0024203013176479953
+986,2025-04-30,DG UN Equity,Growth,"['fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",5.915853311,0.018658159442274443
+1003,2025-04-30,ECL UN Equity,Growth,"['hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",62.123027114,0.19593138707048485
+1026,2025-04-30,EXPE UW Equity,Growth,"['fwd_pe', 'fwd_eps']",25.23922562,0.079602632293446
+1034,2025-04-30,FE UN Equity,Growth,"['hist_sps', 'fwd_pe', 'fwd_eps_STg', 'fwd_eps_LTg']",41.129556738,0.12971954966847504
+1037,2025-04-30,FITB UW Equity,Growth,"['hist_sps', 'fwd_pe', 'fwd_eps_LTg']",29.297172043,0.09240109219233467
+1042,2025-04-30,FTNT UW Equity,Growth,"['fwd_pe', 'fwd_eps']",44.8213891,0.141363313166847
+1063,2025-04-30,HBAN UW Equity,Growth,"['hist_eps', 'fwd_pe', 'fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",13.061665734999998,0.04119551805183744
+1070,2025-04-30,HPE UN Equity,Growth,"['fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",1.9935639490000001,0.006287551780509704
+1124,2025-04-30,LRCX UW Equity,Growth,"['hist_eps', 'hist_sps', 'fwd_eps_STg', 'fwd_eps_LTg']",17.26826939,0.0544628317561012
+1125,2025-04-30,LULU UW Equity,Growth,"['fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",15.033947288,0.04741594674510912
+1156,2025-04-30,NEE UN Equity,Growth,['fwd_eps_LTg'],0.228031231,0.0007191934691661449
+1175,2025-04-30,OMC UN Equity,Growth,"['fwd_eps', 'fwd_eps_STg']",8.228192821999999,0.025951105533531724
+1192,2025-04-30,PHM UN Equity,Growth,['fwd_pe'],9.034975594,0.028495638131604484
+1219,2025-04-30,RVTY UN Equity,Growth,"['hist_eps', 'hist_sps', 'fwd_eps_STg']",26.290274782,0.0829175628394419
+1246,2025-04-30,TGT UN Equity,Growth,"['fwd_eps', 'fwd_eps_STg', 'fwd_eps_LTg']",8.926115999,0.028152303100535556
+1292,2025-04-30,WSM UN Equity,Growth,"['fwd_eps', 'fwd_eps_LTg']",8.473952994,0.026726214758300802
+888,2025-04-30,ALL UN Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy']",14.627537979000001,0.13007122509159127
+896,2025-04-30,AMT UN Equity,Value,['hist_earn_yld'],2.737600816,0.024343337372295326
+974,2025-04-30,CTRA UN Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy']",8.85011988,0.07869717628842854
+1008,2025-04-30,EL UN Equity,Value,['hist_pb'],5.173225529,0.0460014380545896
+1024,2025-04-30,EXE UW Equity,Value,['hist_pb'],1.40078478,0.01245608062586013
+1029,2025-04-30,FANG UW Equity,Value,"['hist_pb', 'hist_earn_yld']",13.007971976,0.11566969460646562
+1116,2025-04-30,LH UN Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dps', 'fwd_dvy']",10.212260487,0.0908096245865533
+1157,2025-04-30,NEM UN Equity,Value,"['hist_pb', 'hist_earn_yld']",9.840504997,0.0875038945253328
+1159,2025-04-30,NI UN Equity,Value,['fwd_dps'],1.134166667,0.010085254815029514
+1169,2025-04-30,NWS UW Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dvy']",4.840027419999999,0.04303856854790626
+1170,2025-04-30,NWSA UW Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dvy']",4.960610728,0.04411082135078218
+1173,2025-04-30,ODFL UW Equity,Value,"['fwd_dps', 'fwd_dvy']",1.160378393,0.010318335140473195
+1178,2025-04-30,OXY UN Equity,Value,"['hist_pb', 'hist_earn_yld', 'fwd_dvy']",10.086058391000002,0.08968740830795516
+1198,2025-04-30,PODD UW Equity,Value,"['hist_pb', 'hist_earn_yld']",15.899894053999999,0.14138528995100738
+1213,2025-04-30,RMD UN Equity,Value,"['hist_pb', 'fwd_dps']",8.526766781,0.07582185073572961
